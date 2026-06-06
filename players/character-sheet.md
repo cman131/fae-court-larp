@@ -1,6 +1,6 @@
 # Character Sheet — *The Queen's Revel*
 
-> Fill this out at session zero. Bring it to the Revel. Mark spent stats and action points during play.
+> Fill this out at session zero. Bring it to the Revel. Mark spent stats and ability uses during play.
 
 ---
 
@@ -28,107 +28,109 @@
 
 ## Stats
 
-Distribute stat points freely across any of the nine stats. No minimum per stat; no per-category cap.
+Fill in bubbles at character creation — each bubble costs 1 stat point. Cross off bubbles during play when you spend a stat point for a re-test. Spent points do not refresh.
 
-| Rank | Stat Points | Max in any stat |
-|---|---|---|
-| Sovereign | 18 | 5 |
-| Sidhe | 12 | 4 |
-| Sprite | 8 | 3 |
+| Rank | Stat Points |
+|---|---|
+| Sovereign | 27 |
+| Sidhe | 17 |
+| Sprite | 11 |
 
-*Points spent for re-tests are gone for the night — no refresh.*
+Max 3 in any stat. Stat points are shared with ability purchases below.
 
 ### Iron *(physical)*
 
-| Stat | What it covers | Score | Points remaining |
-|---|---|---|---|
-| **Might** | raw strength, striking, holding | _____ | _____ |
-| **Grace** | speed, agility, ethereal movement | _____ | _____ |
-| **Mettle** | endurance, resilience, resist compulsion | _____ | _____ |
+**Might** *(raw strength, striking, holding)* &nbsp; ○ ○ ○
 
-### Court *(social)*
+**Grace** *(speed, agility, ethereal movement)* &nbsp; ○ ○ ○
 
-| Stat | What it covers | Score | Points remaining |
-|---|---|---|---|
-| **Glamour** | beauty, charm, fae aura | _____ | _____ |
-| **Presence** | authority, weight of rank | _____ | _____ |
-| **Guile** | deception, manipulation, double-meanings | _____ | _____ |
+**Mettle** *(endurance, resilience, resist compulsion)* &nbsp; ○ ○ ○
+
+### Glamour *(social)*
+
+**Glamour** *(beauty, charm, fae aura)* &nbsp; ○ ○ ○
+
+**Presence** *(authority, weight of rank)* &nbsp; ○ ○ ○
+
+**Guile** *(deception, manipulation, double-meanings)* &nbsp; ○ ○ ○
 
 ### Wyrd *(magical / perceptual)*
 
-| Stat | What it covers | Score | Points remaining |
-|---|---|---|---|
-| **Sight** | perception, seeing through illusions | _____ | _____ |
-| **Lore** | ancient knowledge, riddles, old pacts | _____ | _____ |
-| **Craft** | magic-working, enchantment | _____ | _____ |
+**Sight** *(perception, seeing through illusions)* &nbsp; ○ ○ ○
 
----
+**Lore** *(ancient knowledge, riddles, old pacts)* &nbsp; ○ ○ ○
 
-## Action Points
-
-Represented by poker chips or tokens. Spend 1 to activate any ability. Does not refresh.
-
-| Rank | Starting points |
-|---|---|
-| Sovereign | 4 |
-| Sidhe | 3 |
-| Sprite | 2 |
-
-**Track remaining:** &nbsp; ○ &nbsp; ○ &nbsp; ○ &nbsp; ○
+**Craft** *(magic-working, enchantment)* &nbsp; ○ ○ ○
 
 ---
 
 ## Abilities
 
-How many to pick:
-- Sovereign: 4
-- Sidhe: 3 *(Knights add their signature for a fourth, free)*
-- Sprite: 2
+Fill in bubbles to purchase uses — each filled bubble is one use for the evening. Each bubble costs 1 stat point unless a higher cost is shown in parentheses. Cross off bubbles during play when you activate an ability. Uses do not refresh.
 
-At least one ability should come from your court's pool. The rest may come from Universal or your court.
+Buy from the three universal pools and your court's pool. Court pools are gated — fill in only your court's pool (or one you have unlocked).
 
 > Full ability descriptions: [rules/abilities.md](../rules/abilities.md)
 
-### Pick your abilities (mark them ✓ in the lists below; copy your picks here for quick reference)
+### Universal — Iron
 
-1. ____________________________________________________
-2. ____________________________________________________
-3. ____________________________________________________
-4. ____________________________________________________ *(Knight signature or 4th Sovereign pick)*
+**Steadfast** &nbsp; ○ ○ ○
 
----
+**Iron Stride** *(2 pts)* &nbsp; ○ ○ ○
 
-### Universal abilities *(anyone may take)*
+**Unyielding** *(3 pts)* &nbsp; ○ ○ ○
 
-- ☐ **Glamour-Strike** *(Court — Glamour)* — Force one opponent to lose an RPS without throwing.
-- ☐ **Iron Word** *(Court — Presence)* — Swear an oath aloud; you cannot break it without a Wyrd 5+ conflict. In return, you cannot be magically compelled this scene.
-- ☐ **Whispered Tongue** — Pass a short message silently to one person you can see.
-- ☐ **Hearth's Mercy** — You are unaffected by one ability just used against you this scene.
-- ☐ **Trueseeing** *(Wyrd — Sight)* — Demand a yes/no question be answered honestly.
+### Universal — Wyrd
 
-### Court of Storms *(Aurora's)*
+**Whispered Tongue** &nbsp; ○ ○ ○
 
-- ☐ **Lure of the Revel** *(Court — Glamour)* — Draw one character into a private conversation; they cannot disengage for 3 minutes without spending a Glamour point.
-- ☐ **Stormwalk** *(Iron — Grace)* — Pass any one social barrier (closed circle, forbidden room) without challenge.
-- ☐ **Song of Aurora** *(Wyrd — Lore)* — While you sing, dance, or perform, any character within earshot must answer one personal question truthfully when you stop.
+**Hearth's Mercy** *(2 pts)* &nbsp; ○ ○ ○
 
-### Court of Beasts *(Spriggan's)*
+**Trueseeing** *(3 pts)* &nbsp; ○ ○ ○
 
-- ☐ **Beast Form** *(Iron — Mettle)* — When you would lose a physical conflict, force a tie instead.
-- ☐ **Earth-Sense** *(Wyrd — Sight)* — Detect when anyone in your line of sight is lying about a location, a movement, or a meeting.
-- ☐ **Old Grudge** *(Court — Presence)* — Publicly name a wrong done to your clan. The accused must respond honestly or spend a Presence point to deflect.
+### Universal — Glamour
 
-### Court of Mirrors *(Mab's)*
+**Iron Word** &nbsp; ○ ○ ○
 
-- ☐ **Maskwear** *(Court — Guile)* — Briefly impersonate another character's voice or manner. Convince one character of one small lie.
-- ☐ **Boggart Bargain** *(Court — Guile)* — Offer a secret-for-secret trade. If accepted, both parties must trade truthfully.
-- ☐ **Hall of Mirrors** *(Iron — Grace)* — When attacked, redirect the attack to another character within 3 paces.
+**Glamour-Strike** *(2 pts)* &nbsp; ○ ○ ○
 
-### Knight signature *(Knights only — add automatically for your title)*
+**Reverie** *(3 pts)* &nbsp; ○ ○ ○
 
-- ☐ **Sun's Edge** *(Iron — Might)* — Win a Might challenge without RPS. *(Barghest)*
-- ☐ **Lake's Veil** *(Wyrd — Craft)* — Vanish from a scene for up to 5 real minutes; return anywhere in the play space. *(Mélusine)*
-- ☐ **Wind's Lament** *(Wyrd — Lore)* — Compel one direct, truthful answer to one question. *(Baobhan Sith)*
+### Court of Storms *(members and unlock-holders only)*
+
+**Lure of the Revel** &nbsp; ○ ○ ○
+
+**Stormwalk** *(2 pts)* &nbsp; ○ ○ ○
+
+**Song of Aurora** *(3 pts)* &nbsp; ○ ○ ○
+
+### Court of Beasts *(members and unlock-holders only)*
+
+**Earth-Sense** &nbsp; ○ ○ ○
+
+**Old Grudge** *(2 pts)* &nbsp; ○ ○ ○
+
+**Beast Form** *(3 pts)* &nbsp; ○ ○ ○
+
+### Court of Mirrors *(members and unlock-holders only)*
+
+**Maskwear** &nbsp; ○ ○ ○
+
+**Boggart Bargain** *(2 pts)* &nbsp; ○ ○ ○
+
+**Hall of Mirrors** *(3 pts)* &nbsp; ○ ○ ○
+
+### Cross-court unlock *(optional)*
+
+**Cross-court unlock** *(2 pts)* &nbsp; ○ — Ability: _________________________ from Court of _________________________
+
+### Knight signature *(granted free — does not cost stat points)*
+
+**Sun's Edge** *(pre-loaded — cannot buy more uses)* &nbsp; ○ &nbsp; *(Barghest)*
+
+**Lake's Veil** *(pre-loaded — cannot buy more uses)* &nbsp; ○ &nbsp; *(Mélusine)*
+
+**Wind's Lament** *(pre-loaded — cannot buy more uses)* &nbsp; ○ &nbsp; *(Baobhan Sith)*
 
 > *Sovereign of the Autumn Forest (Oberon): your abilities are listed on your private brief.*
 

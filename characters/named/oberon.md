@@ -20,7 +20,7 @@
 
 **Faction:** Sovereign of the **Autumn Forest**, the bleak country on the outskirts of Fairy Country where bullied fae, persecuted fae, fae accused of "spreading poison," and small powerless fae too innocent or simple for the cities' intrigues come to gather and die. He answers to no other Sovereign. He has come alone — the Autumn Forest can spare no other voice.
 
-**Rank:** Sovereign (18 stat points, 4 action points, 3 tokens). On reveal, gain +5 additional stat points distributed freely.
+**Rank:** Sovereign (27 stat points, 3 tokens). On reveal, gain +5 additional stat points distributed freely.
 
 Worn-noble. Dress as a Sovereign but a poor one — autumn leaves at your brow rather than gold; a coat that has been mended; soft shoes that have walked far. Gentle in voice, careful in gesture, the manner of one used to comforting the dying. Smile only when it serves a kindness. Be especially attentive to Sprites and small fae at the Revel — your country is full of those who could not survive the cities, and you remember each one by name. The performance is a Sovereign who has carried too many funerals.
 
@@ -30,29 +30,25 @@ Bring two costume layers: the gentle autumn-shepherd one for Acts I–IV, and be
 
 ## Stats: Public Sheet
 
-*(before reveal — distribute 18 points across the nine stats as suits your concept; suggested distribution below)*
+*(before reveal — distribute 27 points across the nine stats as suits your concept; suggested distribution below)*
 
-Suggested: Presence 4, Glamour 4, Lore 4, Guile 3, Craft 2, Sight 1 *(18 total)*
-
----
-
-## Abilities: Public Sheet
-
-*(what other characters see you use — each costs 1 action point)*
-
-- **Sovereign's Mantle** *(Court — Presence)* — Declare yourself the formal "host" of any conflict between two other parties, setting the stakes for both. *(Your claim is the moral one: you answer to no other Sovereign and owe no city anything.)*
-- **Wanderer's Step** *(Wyrd — Craft)* — Enter any private scene uninvited; no one may refuse you entry. *(You are the only voice your country has — none of the city courts will publicly turn away the lone Sovereign of the dying.)*
-- **Mantle of Mourning** *(Wyrd — Lore)* — Pass any direct question by lowering your voice and naming a fae of theirs who died in your forest. You cannot be magically compelled to answer.
+**Suggested:** Glamour 3, Presence 3, Guile 3, Lore 3, Craft 3, Sight 2, Might 1, Grace 1, Mettle 0 *(19 in stats, 8 remaining for ability purchases — plus +5 on reveal)*
 
 ---
 
-## Abilities: Secret Sheet
+## Abilities
 
-*(reveal only — each costs 1 action point unless noted; see also [storyteller/vortigern-reveal.md](../../storyteller/vortigern-reveal.md))*
+Build your Oberon persona using the standard character sheet. Spend your stat points on stats and ability purchases from the normal pools (Iron, Wyrd, Glamour, and — if you choose — any court pool via the cross-court unlock). You have no unique pre-assigned abilities before the reveal; play Oberon's manner and behaviors through roleplay and whatever you purchase.
 
-- **Vortigern's Heart** — *No action point cost — fires on the reveal itself.* Gain +5 stat points distributed freely across any stats. All oaths Oberon swore are retroactively void.
-- **Tyrant's Word** *(Wyrd — Sight)* — Cannot be lied to for the remainder of the evening.
-- **The Long Hunger** *(Iron — Might)* — Each character you defeat in a conflict after the reveal: choose one of their abilities. You may use that ability once tonight by spending 1 action point as normal.
+The three behaviors most central to Oberon's persona — hosting conflicts, entering private scenes, deflecting questions — are not mechanically distinct. Use Presence, Guile, and Lore challenges as the situation demands.
+
+## Vortigern's Abilities *(activated at the reveal — do not use before the storyteller's cue)*
+
+*See [storyteller/vortigern-reveal.md](../../storyteller/vortigern-reveal.md) for the full reveal procedure.*
+
+- **Vortigern's Heart** — Fires automatically on the reveal. Gain +5 stat points distributed freely across any stats. All oaths Oberon swore are retroactively void.
+- **Tyrant's Word** *(Wyrd)* — Passive for the rest of the evening: you cannot be lied to.
+- **The Long Hunger** *(Iron)* — Each character you defeat in a challenge after the reveal: choose one of their purchased abilities. You may use that ability once tonight as if you had bought a use of it.
 
 ---
 

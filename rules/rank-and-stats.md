@@ -14,15 +14,17 @@ Below uses Sovereign / Sidhe / Sprite.
 
 ### Point allocations by rank
 
-| Rank | Stat Points | Max in any stat | Abilities | Action Points | Tokens |
-|---|---|---|---|---|---|
-| Sovereign | 18 | 5 | 4 | 4 | 3 |
-| Sidhe | 12 | 4 | 3 | 3 | 2 |
-| Sprite | 8 | 3 | 2 | 2 | 1 |
+| Rank | Stat Points | Tokens |
+|---|---|---|
+| Sovereign | 27 | 3 |
+| Sidhe | 17 | 2 |
+| Sprite | 11 | 1 |
 
-Distribute stat points freely across any of the nine stats. No minimum per stat; no per-category cap.
+Max 3 in any stat (3 bubbles per stat on the character sheet).
 
-Knights are built on the Sidhe chassis with one bonus ability (the Knight's signature). Oberon is built on the Sovereign chassis with one *secret* additional ability sheet for the reveal.
+Distribute stat points freely across stats and ability purchases — see [abilities.md](abilities.md) for how to spend on ability uses. No minimum per stat; no per-category cap.
+
+Knights are built on the Sidhe chassis with their signature ability granted free on top of their normal budget. Oberon is built on the Sovereign chassis with a secret ability sheet revealed at the climax.
 
 > **Note:** Character briefs currently list stat suggestions using the old three-stat format. Redistribute those totals among the nine stats below to match your character's concept.
 
@@ -30,7 +32,7 @@ Knights are built on the Sidhe chassis with one bonus ability (the Knight's sign
 
 ## The Nine Stats
 
-Stats are grouped into three categories. Each stat serves two purposes during play:
+Stats are grouped into three categories and rated 0–3. Each stat serves two purposes during play:
 
 1. **Tie-breaker** — when an RPS throw ties, the higher score in the named stat wins.
 2. **Re-test pool** — you may spend 1 point from the named stat to demand a fresh throw. Points spent are gone for the night.
@@ -43,7 +45,7 @@ Stats are grouped into three categories. Each stat serves two purposes during pl
 | **Grace** | speed, agility, the fae's ethereal movement |
 | **Mettle** | endurance, resilience, resistance to harm and compulsion |
 
-### Court *(social)*
+### Glamour *(social)*
 
 | Stat | What it covers |
 |---|---|
@@ -61,8 +63,9 @@ Stats are grouped into three categories. Each stat serves two purposes during pl
 
 ---
 
-## Action Points
+## Ability Uses
 
-Action points are a separate resource from stats, spent to activate abilities. Represent them with poker chips, tokens, or a physical tally. Action points do not refresh during the event; the storyteller may grant additional points for specific dramatic moments.
+There are no action points. Abilities are purchased at character creation by spending stat points — each use of an ability costs 1–3 stat points depending on the ability's tier, and you may buy up to 3 uses of any single ability. Those purchased uses are your resource for the evening. When they're gone, the ability is unavailable.
 
-*See [conflict-resolution.md](conflict-resolution.md) for the full challenge procedure, and [abilities.md](abilities.md) for how action points are spent.*
+*See [abilities.md](abilities.md) for the full ability list, tier costs, and the cross-court unlock rule.*
+*See [conflict-resolution.md](conflict-resolution.md) for the full challenge procedure.*

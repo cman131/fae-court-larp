@@ -2,7 +2,7 @@
 
 ## Contents
 - [Setup Instructions](#setup-instructions)
-- [Cards](#cards): [M-01](#m-01) · [M-02](#m-02) · [M-03](#m-03) · [M-04](#m-04) · [M-05](#m-05) · [M-06](#m-06) · [M-07](#m-07) · [M-08](#m-08) · [M-09](#m-09) · [M-10](#m-10) · [M-11](#m-11) · [M-12](#m-12) · [M-13](#m-13) · [M-14](#m-14) · [M-15](#m-15) · [M-16](#m-16) · [M-17](#m-17) · [M-18](#m-18) · [M-19](#m-19) · [M-20](#m-20) · [M-21](#m-21) · [M-22](#m-22) · [M-23](#m-23) · [M-24](#m-24) · [M-25](#m-25)
+- [Cards](#cards): [M-01](#m-01) · [M-02](#m-02) · [M-03](#m-03) · [M-04](#m-04) · [M-05](#m-05) · [M-06](#m-06) · [M-07](#m-07) · [M-08](#m-08) · [M-09](#m-09) · [M-10](#m-10) · [M-11](#m-11) · [M-12](#m-12) · [M-13](#m-13) · [M-14](#m-14) · [M-15](#m-15) · [M-16](#m-16) · [M-17](#m-17) · [M-18](#m-18) · [M-19](#m-19) · [M-20](#m-20) · [M-21](#m-21) · [M-22](#m-22) · [M-23](#m-23) · [M-24](#m-24) · [M-25](#m-25) · [M-26](#m-26)
 
 ---
 
@@ -142,6 +142,11 @@ You serve a forgotten power — a god, a sleeping beast, a name no fae will utte
 
 ### M-25
 You have come to issue a formal challenge of honor to one specific fae in this room. Choose your insult carefully and choose your moment. A duel before dawn is the goal.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### M-26
+Something is wrong with Oberon — not wrong the way a rumor is wrong, but wrong the way old names go wrong when worn by someone they do not belong to. You've noticed it. You are no one important, and no one would believe you if you simply said so. Find someone at this Revel with enough standing to act on it, and find a way to make them listen before the night ends.
 
 ---
 

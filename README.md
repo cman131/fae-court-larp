@@ -1,7 +1,7 @@
 # The Queen's Revel
 ### A Celtic Fae LARP
 
-The Fae Queen Morgan has summoned the rulers of Britain's three great courts to a Revel at her seat in the City of Light — and then sealed herself into the Hawthorn Tower and refused to come out. Her three Knights host the Revel in her stead. Among the guests is Oberon, Sovereign of the Autumn Forest, who is not what he appears to be. A one-evening live-action drama for 8–15 players, approximately 4 hours.
+Every year at summer's end, the rulers of Britain's three great courts present themselves at the City of Light for the Queen's Revel. This year, Morgan has sealed herself into the Hawthorn Tower and refused to come out. Her three Knights host the Revel in her stead. Among the guests is Oberon, Sovereign of the Autumn Forest, who is not what he appears to be. A one-evening live-action drama for 8–15 players, approximately 4 hours.
 
 ---
 
@@ -73,7 +73,8 @@ Background reading for the setting and mechanics.
 
 - [Concept and World](world/concept.md) — the premise, Morgan's withdrawal, tonight's situation
 - [The Courts](world/courts.md) — all five factions described
-- [Rank and Stats](rules/rank-and-stats.md) — Sovereign/Sidhe/Sprite tiers, point allocations, nine stats in three categories (Iron/Court/Wyrd)
-- [Abilities](rules/abilities.md) — full ability list by pool (Universal, Storms, Beasts, Mirrors, Knights, Oberon)
+- [Rank and Stats](rules/rank-and-stats.md) — Sovereign/Sidhe/Sprite tiers, point allocations, nine stats in three categories (Iron/Glamour/Wyrd)
+- [Abilities](rules/abilities.md) — ability pools, tier costs, and purchasing rules (Iron, Wyrd, Glamour, and per-court pools)
+- [Named Character Abilities](rules/named-abilities.md) — Knight signatures and Oberon's ability sheets (storyteller reference)
 - [Conflict Resolution](rules/conflict-resolution.md) — RPS throw, stat tie-breakers, re-test procedure
 - [Hospitality Rules](rules/hospitality.md) — what is and isn't permitted until Act IV

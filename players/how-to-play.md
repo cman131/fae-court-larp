@@ -6,7 +6,7 @@ This is everything you need to know to act, contest, and resolve outcomes during
 ## Contents
 - [Stats](#stats)
 - [Tokens](#tokens)
-- [Action Points](#action-points)
+- [Ability Uses](#ability-uses)
 - [Resolving a Conflict](#resolving-a-conflict)
 - [Using Abilities](#using-abilities)
 - [Hospitality — the Rules of the Revel](#hospitality--the-rules-of-the-revel)
@@ -20,14 +20,14 @@ This is everything you need to know to act, contest, and resolve outcomes during
 
 ## Stats
 
-You have nine stats organized into three categories. Each stat is rated 0–5 and serves two purposes: it is your **tie-breaker** when that kind of conflict deadlocks, and it is your **re-test pool** — you may spend 1 point from it to demand another throw.
+You have nine stats organized into three categories. Each stat is rated 0–3 and serves two purposes: it is your **tie-breaker** when that kind of conflict deadlocks, and it is your **re-test pool** — you may spend 1 point from it to demand another throw.
 
 **Iron** *(physical)*
 - **Might** — raw strength, striking, holding, breaking
 - **Grace** — speed, agility, the fae's ethereal movement
 - **Mettle** — endurance, resilience, resistance to harm and compulsion
 
-**Court** *(social)*
+**Glamour** *(social)*
 - **Glamour** — beauty, charm, the bewitching fae aura
 - **Presence** — authority, the weight of rank and bearing
 - **Guile** — clever words, manipulation, double-meanings, deception
@@ -47,17 +47,9 @@ Tokens represent items, favors, small reserves you brought to the Revel — a gi
 
 ---
 
-## Action Points
+## Ability Uses
 
-Action points are the fuel for your abilities — a separate pool from stats. Represent them with the poker chips or tokens you receive at session zero.
-
-| Rank | Starting action points |
-|---|---|
-| Sovereign | 4 |
-| Sidhe | 3 |
-| Sprite | 2 |
-
-Action points do not refresh during the event. A storyteller may grant additional points at dramatic moments. When you spend one, hand the chip back to the storyteller or set it aside visibly.
+Abilities are purchased at character creation by spending stat points. Each purchase gives you one use of that ability for the evening. When you activate an ability, mark off a use on your sheet. When your uses of an ability are gone, that ability is unavailable for the rest of the night — there is no refresh.
 
 ---
 
@@ -83,11 +75,9 @@ After resolution, narrate what happened in character. The mechanics give the out
 
 ## Using Abilities
 
-Activating an ability costs **1 action point**. Hand the chip to the storyteller or set it aside. There are no per-scene or per-evening limits beyond your action point supply.
+When you activate an ability, mark off one use on your character sheet. There are no per-scene limits — you can use an ability as often as you have uses left for it.
 
 When you use an ability, **narrate**. Don't say *"I use Boggart Bargain"*; say *"I offer Aurora a secret in exchange for one of hers, and the air around us bends into a binding shape."* The mechanical effect happens either way, but the storytelling is what the rest of the room remembers.
-
-Mark each action point spent so you don't lose track. If your supply runs out, your abilities are unavailable until the storyteller grants a refresh.
 
 ---
 
@@ -154,7 +144,7 @@ Respond in character. The Revel does not have a single winner. The good outcome 
 
 > **A conflict:** name the stat → both throw RPS → winner wins → ties broken by higher stat score → re-test by spending 1 point from that stat.
 > **Re-test points are gone for the night. No refresh.**
-> **Abilities cost 1 action point. No per-scene or per-evening limits.**
+> **Abilities: mark off a use when activated. No per-scene limits. No refresh.**
 > **Until Act IV: hospitality holds. Words and illusions only. No drawn blades.**
 > **From Act IV on: anything goes.**
 > **In doubt: ask a storyteller.**

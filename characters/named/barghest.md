@@ -17,7 +17,7 @@
 
 **Faction:** Queen's Court (the Knights). Senior among the three.
 
-**Rank:** Sidhe (8 stat points), with the Knight's signature ability.
+**Rank:** Sidhe (17 stat points), with the Knight's signature ability.
 
 Tall, sun-coloured, in formal warrior dress or polished armor. Carry a visible blade. Honor-bound, direct, slow to anger and slower to forgive. You preside in Morgan's absence — every other person in the room knows your authority comes from her, and that her authority is, tonight, an empty chair.
 
@@ -25,18 +25,20 @@ Tall, sun-coloured, in formal warrior dress or polished armor. Carry a visible b
 
 ## Stats
 
-**Suggested:** Iron 4, Wyrd 3, Glamour 1.
+*(distribute 17 points across the nine stats; Knight signature is granted free on top)*
+
+**Suggested:** Might 3, Grace 2, Mettle 3, Glamour 1, Presence 2, Guile 1, Sight 2, Lore 2, Craft 1 *(17 total — reduce any stat by 1–2 to free stat points for ability purchases)*
 
 ---
 
 ## Abilities
 
-*(4 total — 3 picks + Knight signature)*
+**Sun's Edge** is pre-loaded with 1 use before you spend any stat points. You cannot purchase more uses of it.
 
-- **Sun's Edge** *(Knight signature)*
-- **Iron Word** *(universal)*
-- **Trueseeing** *(universal)*
-- **Hearth's Mercy** *(universal)*
+Spend your remaining stat points on stats and ability purchases from the standard pools as you see fit. Suggested purchases to fit the character:
+- **Iron Word** *(Glamour — Tier 1, 1 pt/use)*
+- **Trueseeing** *(Wyrd — Tier 3, 3 pts/use)*
+- **Hearth's Mercy** *(Wyrd — Tier 2, 2 pts/use)*
 
 ---
 

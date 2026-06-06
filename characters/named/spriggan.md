@@ -17,7 +17,7 @@
 
 **Faction:** Court of Beasts (your court).
 
-**Rank:** Sovereign (12 stat points; 4 abilities; 3 tokens).
+**Rank:** Sovereign (27 stat points; 3 tokens).
 
 Visibly inhuman. Horns, claws, antlers, a touch of fur or scale — wear at least one openly fae feature that the courtly Sidhe of other courts hide. Move slowly when others move quickly. Speak rarely and only with weight. You are the oldest of the three Sovereigns; let your silences be longer than your words.
 
@@ -25,7 +25,9 @@ Visibly inhuman. Horns, claws, antlers, a touch of fur or scale — wear at leas
 
 ## Stats
 
-**Suggested:** Glamour 2, Iron 6, Wyrd 4.
+*(distribute 27 points across the nine stats; suggested distribution below)*
+
+**Suggested:** Might 3, Mettle 3, Grace 2, Lore 3, Sight 2, Craft 2, Presence 2, Glamour 1, Guile 1 *(19 in stats, 8 remaining for ability purchases)*
 
 ---
 

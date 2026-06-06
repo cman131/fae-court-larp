@@ -17,7 +17,7 @@
 
 **Faction:** Court of Storms (your court).
 
-**Rank:** Sovereign (12 stat points; 4 abilities; 3 tokens).
+**Rank:** Sovereign (27 stat points; 3 tokens).
 
 Tall, radiant, hair like cloud or sunrise. Move as though the air supports you. Speak warmly to inferiors and coolly to peers. Smile only when it costs the listener something.
 
@@ -25,7 +25,9 @@ Tall, radiant, hair like cloud or sunrise. Move as though the air supports you. 
 
 ## Stats
 
-**Suggested:** Glamour 6, Iron 3, Wyrd 3.
+*(distribute 27 points across the nine stats; suggested distribution below)*
+
+**Suggested:** Glamour 3, Presence 3, Guile 2, Lore 3, Craft 2, Sight 2, Might 1, Grace 2, Mettle 1 *(19 in stats, 8 remaining for ability purchases)*
 
 ---
 
