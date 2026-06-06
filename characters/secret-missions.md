@@ -1,8 +1,16 @@
-# The Queen's Revel — Secret Mission Cards
+# Secret Mission Cards — *The Queen's Revel*
 
-These cards are for any player who is not Oberon, a Sovereign, or a Knight — i.e., the Sidhe and Sprites of each court. At session zero, each such player draws **one Secret Mission** card. Sovereigns and Knights receive assigned secret goals in their briefs (see *Character_Briefs.md*); Oberon's secret play is entirely scripted.
+## Contents
+- [Setup Instructions](#setup-instructions)
+- [Cards](#cards): [M-01](#m-01) · [M-02](#m-02) · [M-03](#m-03) · [M-04](#m-04) · [M-05](#m-05) · [M-06](#m-06) · [M-07](#m-07) · [M-08](#m-08) · [M-09](#m-09) · [M-10](#m-10) · [M-11](#m-11) · [M-12](#m-12) · [M-13](#m-13) · [M-14](#m-14) · [M-15](#m-15) · [M-16](#m-16) · [M-17](#m-17) · [M-18](#m-18) · [M-19](#m-19) · [M-20](#m-20) · [M-21](#m-21) · [M-22](#m-22) · [M-23](#m-23) · [M-24](#m-24) · [M-25](#m-25)
 
-Relationships are handled separately through the session-zero **Relationship Mixer** exercise (see *Fae_Court_LARP_Design.md*, "Session Zero").
+---
+
+## Setup Instructions
+
+These cards are for any player who is not Oberon, a Sovereign, or a Knight — i.e., the Sidhe and Sprites of each court. At session zero, each such player draws **one Secret Mission** card. Sovereigns and Knights receive assigned secret goals in their briefs (see `characters/named/`); Oberon's secret play is entirely scripted.
+
+Relationships are handled separately through the session-zero Relationship Mixer (see [storyteller/session-zero.md](../storyteller/session-zero.md)).
 
 **Storyteller setup:** Print this file. Cut along the dotted lines. Fold each card once. Drop them in a container. Players draw in front of you so you can quietly note who drew what — useful if a mission collides with a court storyline and needs a quiet re-draw.
 
@@ -10,7 +18,7 @@ A few cards reference "a Sovereign" or "a Knight" generically — when drawn, th
 
 ---
 
-## Secret Missions (25 cards)
+## Cards
 
 ### M-01
 You owe a personal debt to a Sovereign not of your court. Settle it tonight without letting your own Sovereign learn of it.

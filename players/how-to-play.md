@@ -3,17 +3,41 @@
 
 This is everything you need to know to act, contest, and resolve outcomes during the Revel. Read it once before session zero, keep it in your pocket during play, and ask a storyteller when in doubt.
 
+## Contents
+- [Stats](#stats)
+- [Tokens](#tokens)
+- [Action Points](#action-points)
+- [Resolving a Conflict](#resolving-a-conflict)
+- [Using Abilities](#using-abilities)
+- [Hospitality — the Rules of the Revel](#hospitality--the-rules-of-the-revel)
+- [Multi-Party Conflicts](#multi-party-conflicts)
+- [When to Ask a Storyteller](#when-to-ask-a-storyteller)
+- [A Note on Courtesy](#a-note-on-courtesy)
+- [The Reveal](#the-reveal)
+- [Quick Reference Card](#quick-reference-card)
+
 ---
 
-## The three stats
+## Stats
 
-You have three stats, each rated 1–6. Each one covers a different kind of moment.
+You have nine stats organized into three categories. Each stat is rated 0–5 and serves two purposes: it is your **tie-breaker** when that kind of conflict deadlocks, and it is your **re-test pool** — you may spend 1 point from it to demand another throw.
 
-- **Glamour** — charm, illusion, beauty, social pull, persuasion. Reach for it when the moment is about seduction, a courtly insult, an illusion-work, or persuading without force.
-- **Iron** — physical might, willpower, combat, endurance. Reach for it when the moment is a duel, a contested doorway, a test of nerve, or resisting magical compulsion.
-- **Wyrd** — cunning, magic, perception, secrets, riddles. Reach for it when the moment is a deception, a working of subtle magic, a deduction, or a riddle.
+**Iron** *(physical)*
+- **Might** — raw strength, striking, holding, breaking
+- **Grace** — speed, agility, the fae's ethereal movement
+- **Mettle** — endurance, resilience, resistance to harm and compulsion
 
-Stat points are a finite reserve you bid during conflicts. They **refresh between acts** — not between scenes — so ration them across a whole act. A Sovereign with a 6 Glamour does not have unlimited Glamour; she has six points to spend before the next act.
+**Court** *(social)*
+- **Glamour** — beauty, charm, the bewitching fae aura
+- **Presence** — authority, the weight of rank and bearing
+- **Guile** — clever words, manipulation, double-meanings, deception
+
+**Wyrd** *(magical / perceptual)*
+- **Sight** — perception, second sight, seeing through illusions
+- **Lore** — wisdom, ancient knowledge, riddles, the old pacts
+- **Craft** — active magic-working, enchantment, raw fae power
+
+Stat points spent for re-tests are gone for the night. There is no refresh.
 
 ---
 
@@ -23,40 +47,51 @@ Tokens represent items, favors, small reserves you brought to the Revel — a gi
 
 ---
 
-## Resolving a conflict
+## Action Points
 
-When two characters disagree on an outcome — a duel, a riddle, a contested charm, an attempt at deception — resolve it in five steps.
+Action points are the fuel for your abilities — a separate pool from stats. Represent them with the poker chips or tokens you receive at session zero.
+
+| Rank | Starting action points |
+|---|---|
+| Sovereign | 4 |
+| Sidhe | 3 |
+| Sprite | 2 |
+
+Action points do not refresh during the event. A storyteller may grant additional points at dramatic moments. When you spend one, hand the chip back to the storyteller or set it aside visibly.
+
+---
+
+## Resolving a Conflict
+
+When two characters disagree on an outcome — a duel, a riddle, a contested charm, an attempt at deception — resolve it in four steps.
 
 **1. Name the stat.**
-The character who initiated the action names the stat that applies. *"This is an Iron contest."* If the other player disputes the choice, flag down a storyteller.
+The character who initiated the action names the specific stat that applies. *"This is a Might contest."* *"This is a Guile challenge."* If the other player disputes the choice, flag down a storyteller.
 
-**2. Both bid stat points.**
-Each of you secretly bids any number of points from that stat. Hold up the number on your fingers, palm down. Reveal simultaneously. **Bid points are spent for the rest of the act whether you win or lose** — bidding is the cost of trying.
+**2. Both throw rock-paper-scissors.**
+Throw simultaneously. **The winner of RPS wins the conflict.**
 
-**3. Throw rock-paper-scissors.**
-Both players throw. **The winner of RPS wins the conflict.**
+**3. Resolve ties.**
+If you tied the throw, compare your scores in the named stat. The higher score wins. If scores are also equal, narrate a standoff — neither side achieves their goal, and both may choose to re-open the conflict or walk away.
 
-**4. Resolve ties.**
-If you tied the throw, the higher bid wins. If you tied the throw *and* tied the bid, the higher remaining unspent stat wins. If still tied, throw again.
-
-**5. Resolve abilities.**
-Either player may spend an ability before or after the throw, where the ability text allows. Some abilities re-throw the contest, force a win, or negate an opponent's ability. Read your ability text carefully before invoking it.
+**4. Re-tests.**
+The losing party may spend **1 point** from the named stat to demand a fresh throw. Either side may keep spending for re-tests. The side that can't or won't spend next loses. Points spent for re-tests are gone for the night.
 
 After resolution, narrate what happened in character. The mechanics give the outcome; the storytelling gives it weight.
 
 ---
 
-## Using abilities
+## Using Abilities
 
-Most abilities are once-per-scene or once-per-evening. The ability's text tells you which. Mark each ability on your sheet as you use it so you don't double-spend.
+Activating an ability costs **1 action point**. Hand the chip to the storyteller or set it aside. There are no per-scene or per-evening limits beyond your action point supply.
 
 When you use an ability, **narrate**. Don't say *"I use Boggart Bargain"*; say *"I offer Aurora a secret in exchange for one of hers, and the air around us bends into a binding shape."* The mechanical effect happens either way, but the storytelling is what the rest of the room remembers.
 
-Some abilities trigger conditions ("when you would lose," "once per scene," "while you sing"). If the condition isn't met, the ability doesn't fire.
+Mark each action point spent so you don't lose track. If your supply runs out, your abilities are unavailable until the storyteller grants a refresh.
 
 ---
 
-## Hospitality — the rules of the Revel
+## Hospitality — the Rules of the Revel
 
 Until Act IV begins, **the Queen's hospitality is binding**. Even though Morgan is not present, her standing word holds:
 
@@ -68,19 +103,19 @@ When Act IV's hospitality breaks, anything goes. You'll know when it happens —
 
 ---
 
-## Multi-party conflicts
+## Multi-Party Conflicts
 
 When three or more players are in a single conflict — a duel witnessed by a third, a group challenge, a court versus a court — a storyteller will adjudicate. They may:
 
 - Decide which stat applies if it's contested.
 - Award narrative bonuses for evocative roleplay.
-- Allow allies to spend their own stat points in support, one-for-one (your ally bids 2 of their Iron to add 2 to your Iron bid).
+- Allow allies to spend their own stat points in support, one-for-one.
 
-If you're uncertain how a group conflict should resolve, ask a storyteller before bidding.
+If you're uncertain how a group conflict should resolve, ask a storyteller before throwing.
 
 ---
 
-## When to ask a storyteller
+## When to Ask a Storyteller
 
 The storytellers are circulating during play. Flag one down — don't argue with another player — when you need to know:
 
@@ -94,7 +129,7 @@ The storyteller's call is final. Move on quickly so the scene keeps its momentum
 
 ---
 
-## A note on courtesy
+## A Note on Courtesy
 
 Two players, the same rule:
 
@@ -103,7 +138,7 @@ Two players, the same rule:
 
 ---
 
-## The reveal
+## The Reveal
 
 At some point during Act IV, the storyteller will cue a moment that **voids hospitality and rewrites the game's rules**. When it happens, listen to the storyteller's announcement. You may suddenly find:
 
@@ -115,12 +150,11 @@ Respond in character. The Revel does not have a single winner. The good outcome 
 
 ---
 
-## Quick reference card
+## Quick Reference Card
 
-> **A conflict:** name the stat → both bid → both throw RPS → winner wins → ties broken by higher bid, then higher remaining stat, then re-throw.
-> **Bids are spent whether you win or lose.**
-> **Stats refresh between acts, not scenes.**
-> **Abilities trigger as their text describes — narrate as you use them.**
+> **A conflict:** name the stat → both throw RPS → winner wins → ties broken by higher stat score → re-test by spending 1 point from that stat.
+> **Re-test points are gone for the night. No refresh.**
+> **Abilities cost 1 action point. No per-scene or per-evening limits.**
 > **Until Act IV: hospitality holds. Words and illusions only. No drawn blades.**
 > **From Act IV on: anything goes.**
 > **In doubt: ask a storyteller.**

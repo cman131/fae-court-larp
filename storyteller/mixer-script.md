@@ -3,9 +3,21 @@
 
 **Total runtime:** 30 minutes. **Cast:** in costume, briefs read, rules walked through. **Materials:** a watch or phone timer, a printed list of pre-set relationship slots, a notepad, optional: a small bell or chime for transitions.
 
+*For the mixer overview and rules, see [session-zero.md](session-zero.md).*
+
+## Contents
+- [Before You Begin](#before-you-begin)
+- [Phase 1 — Court Introductions](#phase-1--court-introductions)
+- [Phase 2 — The Mix](#phase-2--the-mix)
+- [Phase 3 — Relationship Selection](#phase-3--relationship-selection)
+- [After the Mixer](#after-the-mixer)
+- [Troubleshooting Cheatsheet](#troubleshooting-cheatsheet)
+
 ---
 
-## Before you begin (≈ 2 min)
+## Before You Begin
+
+*(≈ 2 min)*
 
 Gather everyone standing. Hold up the printed pre-set list and say something like:
 
@@ -19,7 +31,9 @@ Confirm the pre-sets aloud so the room knows:
 
 ---
 
-## Phase 1 — Court Introductions (10 min)
+## Phase 1 — Court Introductions
+
+*(10 min)*
 
 Send players to their court corners. Set a 10-minute timer.
 
@@ -35,7 +49,9 @@ Call time at 10 minutes.
 
 ---
 
-## Phase 2 — The Mix (10 min)
+## Phase 2 — The Mix
+
+*(10 min)*
 
 Quickly form randomized cross-court groups of 3 or 4. Easiest method: count off by 3 or 4 within each court, then group all the 1s, all the 2s, etc. Aim for no two players from the same court in any group.
 
@@ -53,7 +69,9 @@ Call time at 10 minutes.
 
 ---
 
-## Phase 3 — Relationship Selection (10 min)
+## Phase 3 — Relationship Selection
+
+*(10 min)*
 
 Gather everyone in the open room. State the rules clearly:
 
@@ -76,7 +94,9 @@ Call time at 10 minutes.
 
 ---
 
-## After the mixer (≈ 2 min)
+## After the Mixer
+
+*(≈ 2 min)*
 
 Quick room sweep:
 - Confirm every player has three relationships filled in.
@@ -90,7 +110,7 @@ Let them settle. Start the bell or chime for Act I.
 
 ---
 
-## Troubleshooting cheatsheet
+## Troubleshooting Cheatsheet
 
 | Problem | Fix |
 |---|---|
