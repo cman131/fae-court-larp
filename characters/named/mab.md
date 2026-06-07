@@ -77,7 +77,7 @@ When Morgan fails — or vanishes, or returns too changed to hold it together �
 
 **One slot pre-set: Aurora (Negative).**
 
-Your rival, your once-lover, the one who knows your secrets best of anyone here — including the fact that you were once Queen, which she has never quite forgiven you for (she was one of the courts that backed Morgan's rise). You believe she stole a mirror from you a century ago. Walk over to Aurora's player during the mixer and lock this in together — negotiate the specifics. (Spriggan will also be locking you as her negative; you end the mixer as the most-hated woman in the room. This is correct.)
+Your rival, your once-lover, the one who knows your secrets best of anyone here — including the fact that you were once Queen, which she has never quite forgiven you for (she was one of the courts that backed Morgan's rise). You believe she stole a mirror from you a century ago. Walk over to Aurora's player during the mixer and lock this in together — negotiate the specifics. (Woodwose will also be locking you as her negative; you end the mixer as the most-hated woman in the room. This is correct.)
 
 **Strong positive and Positive slots: free.** Your court rarely forms strong bonds outside itself, but a strong-positive with one of your Mirror Sidhe gives you someone to trust with the Hidden Heir secret. The positive could be one of the Knights — they were loyal to Morgan, but loyalty is conditional when the Queen isn't in the room. Oberon is a tempting and very dangerous choice; you suspect he is playing a longer game than anyone else here, which is the only kind of game you respect.
 
@@ -96,30 +96,3 @@ That heir is here. At this Revel. You know this because you have carried a fragm
 **The shard was stolen from your room the night before the Revel.** You woke to find it gone. The only trace: a clump of coarse Beast Court hair caught in the carpet near the window.
 
 You arrive at the Revel without your most important tool. Someone already moved against you before the night began.
-
----
-
-**What you need to do, in order:**
-
-1. **Identify the thief.** The hair points to the Beast Court. Someone from Spriggan's court was in your room. Find out who — without letting Spriggan know you're looking. Your court can work the Beasts socially while you manage your existing grievance with Spriggan publicly.
-
-2. **Find the thief's room.** Whoever stole the shard is not at the Revel tonight — they're hiding. Your Mirror Sidhe can extract the location from Beast Court gossip. When you go, bring backup.
-
-3. **Recover what you can.** The thief may not still have the shard. But they will know who gave them the order. That name matters.
-
-4. **Learn the bloodline markers.** There is an ancient Sprite in Oberon's company tonight — Lady Annis, who served in Titania's household for two centuries. She knows what Titania's descendants look like, how they move, what gifts they carry. Get her alone. Be careful; she is always near Oberon, and he will notice what questions you ask.
-
-5. **Find the hidden room.** Somewhere in this Revel space, behind a glamour, is Titania's private Mirror Alcove — her old scrying chamber. You can sense it through your own mirror magic. The still basin inside will confirm the heir's identity: any of Titania's blood who looks into it will see a silver crown reflected back. Get the heir into that room.
-
-6. **Make the bargain.** Once you are certain, approach the heir privately. Tell them who they are. Make your case: you know, you can protect, and together the two of you are the most legitimate force in fae Britain since Titania herself. What you want in return is their claim, directed through you, and a sworn oath.
-
----
-
-**The complication you don't know yet:** Oberon has the shard. He moved against you before the Revel started, which means he knows what you're hunting. He has been one step ahead. Watch what he asks about. Watch who he keeps close. He will use the heir against you if he reaches them first.
-
-**What your court can do:**
-- Work the Beast Court guests socially to find the thief
-- Protect you during the confrontation at the thief's room
-- Run interference on Oberon's social orbit while you talk to Annis
-- Help identify the heir by watching for Titania's bloodline markers: silver surfacing in Glamour under pressure, an instinctive sensitivity to hospitality law bending, a tendency toward Sight
-- Keep the Watcher — whoever is quietly guarding the heir — occupied while you get the heir alone

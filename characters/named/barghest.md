@@ -4,6 +4,7 @@
 
 ## Contents
 - [Persona and Appearance](#persona-and-appearance)
+- [History](#history)
 - [Stats](#stats)
 - [Abilities](#abilities)
 - [Public Goals](#public-goals)
@@ -20,6 +21,14 @@
 **Rank:** Sidhe (17 stat points), with the Knight's signature ability.
 
 Tall, sun-coloured, in formal warrior dress or polished armor. Carry a visible blade. Honor-bound, direct, slow to anger and slower to forgive. You preside in Morgan's absence — every other person in the room knows your authority comes from her, and that her authority is, tonight, an empty chair.
+
+---
+
+## History
+
+You were Fang Clan before you were a Knight — one of Woodwose's finest Sidhe, trained under his name, fighting under his standard. Morgan chose you. Woodwose was not chosen. Neither of you has ever spoken of it directly.
+
+Three weeks before the Revel, you swept through the Autumn Forest on what appeared to be a royal command — a sealed letter bearing Morgan's crest, delivered through proper channels. You followed the order. The fae there were sheltering weak and outcast; some were killed. You have not examined the command closely since. You assumed it was political. You did not ask.
 
 ---
 

@@ -9,7 +9,7 @@
 - [Public Goals](#public-goals)
 - [Secret Goal](#secret-goal)
 - [Relationships](#relationships)
-- [Court Storyline: The Marriage Pact](#court-storyline-the-marriage-pact)
+- [Court Storyline: The Gift](#court-storyline-the-gift)
 
 ---
 
@@ -20,6 +20,8 @@
 **Rank:** Sovereign (27 stat points; 3 tokens).
 
 Tall, radiant, hair like cloud or sunrise. Move as though the air supports you. Speak warmly to inferiors and coolly to peers. Smile only when it costs the listener something.
+
+Aurora leads the Wind Clan like a merchant empire. Wealth, favors, and debts accumulate in secret so she can give lavishly in public — the generosity is genuine, and the extraction that funds it is invisible. She cannot bear to be seen as anything less than magnificent and beloved. She is entirely incapable of registering what her taking costs others; she simply does not have the attention for it.
 
 ---
 
@@ -50,7 +52,9 @@ Tall, radiant, hair like cloud or sunrise. Move as though the air supports you. 
 
 ## Secret Goal
 
-Long ago you stole a mirror from Mab — an object she would recognize on sight, and which she has been searching for ever since. You keep it in your possession. She must never learn it was you. If discovered, your court loses face at a moment when face is everything.
+Your court runs a quiet extraction engine that funds everything you are seen to give. Favors called in, debts collected, small fae quietly tithed — the accumulation is constant, the giving is theatrical, and if the Knights ever understood the relationship between the two, every gift you have ever made would be reframed as theft.
+
+Long ago you also stole a mirror from Mab — an object she would recognize on sight, and which she has been searching for ever since. She must never learn it was you. But the extraction operation is the secret that would actually cost you everything.
 
 ---
 
@@ -64,14 +68,10 @@ She is your oldest rival and possibly your first lover. There is no fae in this 
 
 ---
 
-## Court Storyline: The Marriage Pact
+## Court Storyline: The Gift
 
-You have been negotiating in quiet for months toward a single goal: bind **Mélusine, Knight of the Lake**, to one of your favored Storm Sidhe through marriage. This would tie the Queen's Court permanently to Storms — an alliance that outlasts even Morgan herself. Mélusine has not yet agreed.
+*Storyteller reference: `storyteller/storylines/court-of-storms/index.md`*
 
-Tonight you must:
-- Arrange a private audience with Mélusine, ideally in Act III.
-- Present a gift of significance — let your Sidhe choose what.
-- Out-maneuver Mab, who suspects the pact and will try to spoil it. Either by counter-offer (extending her own marriage proposal to Mélusine) or by humiliation (revealing the gambit publicly to make refusal a face-saving move).
-- Coordinate with your court members — direct one of your Sidhe to keep watch on Mab, another to flatter Mélusine through the first acts, and any Sprites to carry messages.
+You have spent weeks preparing a gift for this Revel — something that will make you, unambiguously, the most magnificent and beloved figure in the room. Your court has been accumulating in secret to fund it, and a few final pieces remain to be collected tonight. The gift is not complete until Morgan herself witnesses it. You arrived expecting the Queen to be present. She is not. Her absence is a wound to your pride you will not let anyone see — and you intend to correct it before the night is out.
 
-If you secure Mélusine's agreement before Act IV: triumph. If you secure her *consideration* and Mab is publicly humiliated for trying to interfere: also triumph. If you secure nothing and Mab walks away with Mélusine: ruin.
+Should any formal challenge be brought against your court, Mélusine serves as your designated champion. As Sovereign, the choice is yours to make.

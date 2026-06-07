@@ -4,6 +4,7 @@
 
 ## Contents
 - [Persona and Appearance](#persona-and-appearance)
+- [History](#history)
 - [Stats](#stats)
 - [Abilities](#abilities)
 - [Public Goals](#public-goals)
@@ -19,6 +20,14 @@
 **Rank:** Sidhe (17 stat points), with the Knight's signature ability.
 
 Strikingly beautiful, music-coded — instruments, jewelry of bells or strings, fine courtly dress with one or two hidden blades. Charming to a calculated degree; sing or hum quietly as you move. The Knight most likely to be underestimated.
+
+---
+
+## History
+
+Morgan found you before you had a name for what you were — before you had a court, before you understood what a Knight was or what it cost. She made you one of three. You have served her more as a daughter than a soldier, and she treated you more as a daughter than a subordinate, though neither of you would have said it aloud.
+
+She gave you a key to the Hawthorn Tower quietly, months ago, when she began to suspect something was wrong. She did not tell you what. She did not need to.
 
 ---
 
@@ -51,6 +60,8 @@ Spend your remaining stat points on stats and ability purchases from the standar
 ## Secret Goal
 
 You are Morgan's private informant. Three months ago, before she sealed herself in the Hawthorn Tower, she told you in private: *"Watch the King."* You have watched. You have seen things you cannot yet make sense of. Tonight you decide whether to act on what you've seen, and whether to trust your fellow Knights with the burden before Oberon makes the choice for you.
+
+You have the key. You have not opened the door. You are not sure you want to know what is on the other side.
 
 ---
 

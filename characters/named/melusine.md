@@ -50,7 +50,9 @@ Spend your remaining stat points on stats and ability purchases from the standar
 
 ## Secret Goal
 
-You have been offered, separately, a marriage pact by Aurora (Court of Storms) and a counter-offer by Mab (Court of Mirrors). The third option is to remain free, sworn only to Morgan. Decide before the Revel ends — and reckon with what your refusal of two costs the third.
+You have known for years exactly who Aurora is beneath the performance. You were there for the accumulation as much as the giving. You do not love her less for it.
+
+Someone at this Revel is carrying quiet evidence of what Aurora's court takes in secret — not sure yet what to do with it, watching, waiting. You spotted them the moment they arrived. Aurora has not noticed them at all. Your goal is to resolve this before it reaches her: not through threat, but by actually addressing the harm done, quietly, from your own resources rather than hers. Aurora will never know you did it. That is not the point.
 
 ---
 
@@ -60,4 +62,4 @@ You have been offered, separately, a marriage pact by Aurora (Court of Storms) a
 
 Your oath-sibling, who would not survive your betrayal of the Knights. Lock the slot in with his player at the mixer — agree on the shared history. He has already begun to suspect your wavering. Do not raise that with his player at the mixer; let it bleed in during play.
 
-**Positive and Negative slots: free.** The natural negative is whoever you'll ultimately disappoint — perhaps Aurora or Mab, whichever marriage offer you intend to refuse. Or Oberon, if your instincts about him sharpen. Choose during the mixer; you'll know who feels right when you talk to them.
+**Positive and Negative slots: free.** Your relationship with Aurora sits outside what the slot system captures — she raised you, and that is not something that fits neatly into positive or negative. A positive with one of your fellow Knights gives you somewhere to bring your worries when the time comes. A negative might be whoever tonight feels most likely to expose or harm Aurora without understanding what they are doing.
