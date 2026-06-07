@@ -1,4 +1,4 @@
-# Fang Clan — Justice for the Forest
+# Court of Beasts — Justice for the Forest
 
 *Storyteller reference. For the player-facing brief, see `characters/named/woodwose.md`.*
 
@@ -47,7 +47,7 @@ This points to Oberon — the only figure at this Revel who has been managing Mo
 
 ## Thread 2 — The Challenge Chain
 
-To formally duel Barghest before the Queen, Woodwose must first defeat every other fae at the Revel in order. The chain is a matter of ancient honor — no Fang Clan lord challenges a Knight without first proving dominance over the assembled guests. Physical challenges are the currency: feats of strength, formal bouts, endurance tests. Woodwose or any member of his court may fight on his behalf.
+To formally duel Barghest before the Queen, Woodwose must first defeat every other fae at the Revel in order. The chain is a matter of ancient honor — no Court of Beasts lord challenges a Knight without first proving dominance over the assembled guests. Physical challenges are the currency: feats of strength, formal bouts, endurance tests. Woodwose or any member of his court may fight on his behalf.
 
 ### The Order
 
@@ -84,7 +84,7 @@ By Act III, Woodwose's investigation and Aurora's search for Morgan converge on 
 
 ## The Aurora Layer
 
-Throughout the night, Aurora's court is collecting a tribute from the Fang Clan as one of the pieces for her gift. Woodwose gives it freely when she asks — without conditions, without negotiation. She is warm and grateful and does not register the depth of what he gives.
+Throughout the night, Aurora's court is collecting a tribute from the Court of Beasts as one of the pieces for her gift. Woodwose gives it freely when she asks — without conditions, without negotiation. She is warm and grateful and does not register the depth of what he gives.
 
 The challenge chain puts Woodwose in direct conflict with Mélusine — Aurora's daughter and champion — which Aurora also did not fully consider when she made the designation. She chose Mélusine for strategic reasons. Woodwose absorbs the cost of that choice without complaint. This is, in miniature, the shape of everything between them.
 

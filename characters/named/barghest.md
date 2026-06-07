@@ -26,7 +26,7 @@ Tall, sun-coloured, in formal warrior dress or polished armor. Carry a visible b
 
 ## History
 
-You were Fang Clan before you were a Knight — one of Woodwose's finest Sidhe, trained under his name, fighting under his standard. Morgan chose you. Woodwose was not chosen. Neither of you has ever spoken of it directly.
+You were Court of Beasts before you were a Knight — one of Woodwose's finest Sidhe, trained under his name, fighting under his standard. Morgan chose you. Woodwose was not chosen. Neither of you has ever spoken of it directly.
 
 Three weeks before the Revel, you swept through the Autumn Forest on what appeared to be a royal command — a sealed letter bearing Morgan's crest, delivered through proper channels. You followed the order. The fae there were sheltering weak and outcast; some were killed. You have not examined the command closely since. You assumed it was political. You did not ask.
 

@@ -1,6 +1,6 @@
-# WOODWOSE, Lord of the Fang Clan
+# WOODWOSE, Lord of the Court of Beasts
 
-**Personal name:** Woodwose is your title. You may carry a private name your innermost kin use — Fang Clan names are hard and short, a single syllable, the name of something in the dark wood.
+**Personal name:** Woodwose is your title. You may carry a private name your innermost kin use — Court of Beasts names are hard and short, a single syllable, the name of something in the dark wood.
 
 ## Contents
 - [Persona and Appearance](#persona-and-appearance)
@@ -15,7 +15,7 @@
 
 ## Persona and Appearance
 
-**Faction:** Fang Clan (your court).
+**Faction:** Court of Beasts (your court).
 
 **Rank:** Sovereign (27 stat points; 3 tokens).
 
@@ -52,7 +52,7 @@ You carry a cursed demonic hunger that you have managed your entire life. Physic
 
 ## Secret Goal
 
-Barghest was Fang Clan before she was a Knight. One of your finest — a Sidhe you trained, who fought under your name, who you expected to carry something of what you built. Morgan took her. You were not chosen.
+Barghest was Court of Beasts before she was a Knight. One of your finest — a Sidhe you trained, who fought under your name, who you expected to carry something of what you built. Morgan took her. You were not chosen.
 
 The justice you seek tonight is real. The feeling underneath it is older and harder to name.
 
@@ -72,7 +72,7 @@ She was yours before she was Morgan's. You have carried this quietly for the yea
 
 You love her. She does not notice. During the mixer, walk over to Aurora's player and establish the relationship together — frame it from your side as deep devotion and respect, from her side as genuine warmth without depth. It is not a negative. It is not quite a positive. It is simply the fact that shapes how you move through the room tonight.
 
-**Strong positive slot: free.** Your deepest bonds are within your own court. Consider one of your Fang Clan Sidhe as a strong positive — someone who knows about the hunger and helps you manage it quietly.
+**Strong positive slot: free.** Your deepest bonds are within your own court. Consider one of your Court of Beasts Sidhe as a strong positive — someone who knows about the hunger and helps you manage it quietly.
 
 ---
 
