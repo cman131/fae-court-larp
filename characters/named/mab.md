@@ -85,17 +85,41 @@ Your rival, your once-lover, the one who knows your secrets best of anyone here 
 
 ## Court Storyline: The Hidden Heir
 
-You know that one fae at the Revel tonight is secretly the unrecognized child of a long-dead king — a stolen child, a lost line, the kind of secret on which fae politics turns for a generation. *(The storyteller will tell you, privately, which character it is. Pick a Sidhe or Sprite role rather than a Sovereign.)*
+*Full storyteller reference: `storylines/court-of-mirrors/hidden-heir.md`*
 
-You have not yet decided what to do with the knowledge. Three options:
+Titania was the first Queen. The longest-reigning. The one who held the realm before there were courts to speak of. When she fell — through an unfortunate accident you prefer not to discuss — you gathered what remained and held it together. That was your claim to the throne: not blood, not conquest, but competence.
 
-1. **Expose the heir publicly** at the height of Act IV, for maximum chaos and maximum gossip credit.
-2. **Sell the secret** to one of the other Sovereigns or to Oberon in exchange for a lasting advantage. (Be careful what you take from Oberon.)
-3. **Bind the heir to you** privately — they discover you know, you offer to keep silent in exchange for a permanent oath of service.
+What you have only recently confirmed is that Titania left a line behind. Hidden, scattered, perhaps not even aware of itself. A descendant. A bloodline claim older than Morgan's throne, older than your reign, older than every court compact in force tonight.
 
-Direct your court members to:
-- Identify potential buyers for the secret without naming the secret itself.
-- Gather corroborating proof — small details that would confirm the heir's parentage if pressed.
-- Quietly intimidate the heir during Act III if you've chosen option 3 — make sure they understand silence is the price of survival.
+That heir is here. At this Revel. You know this because you have carried a fragment of Titania's own scrying glass — the Primordial Mirror shard — for decades. When you arrived in the capital two days ago, it stirred for the first time in years. Warm. Pulsing. The heir is here.
 
-The trap: if Oberon learns the heir's identity before you've moved, he will use them against you. Watch what he asks about.
+**The shard was stolen from your room the night before the Revel.** You woke to find it gone. The only trace: a clump of coarse Beast Court hair caught in the carpet near the window.
+
+You arrive at the Revel without your most important tool. Someone already moved against you before the night began.
+
+---
+
+**What you need to do, in order:**
+
+1. **Identify the thief.** The hair points to the Beast Court. Someone from Spriggan's court was in your room. Find out who — without letting Spriggan know you're looking. Your court can work the Beasts socially while you manage your existing grievance with Spriggan publicly.
+
+2. **Find the thief's room.** Whoever stole the shard is not at the Revel tonight — they're hiding. Your Mirror Sidhe can extract the location from Beast Court gossip. When you go, bring backup.
+
+3. **Recover what you can.** The thief may not still have the shard. But they will know who gave them the order. That name matters.
+
+4. **Learn the bloodline markers.** There is an ancient Sprite in Oberon's company tonight — Lady Annis, who served in Titania's household for two centuries. She knows what Titania's descendants look like, how they move, what gifts they carry. Get her alone. Be careful; she is always near Oberon, and he will notice what questions you ask.
+
+5. **Find the hidden room.** Somewhere in this Revel space, behind a glamour, is Titania's private Mirror Alcove — her old scrying chamber. You can sense it through your own mirror magic. The still basin inside will confirm the heir's identity: any of Titania's blood who looks into it will see a silver crown reflected back. Get the heir into that room.
+
+6. **Make the bargain.** Once you are certain, approach the heir privately. Tell them who they are. Make your case: you know, you can protect, and together the two of you are the most legitimate force in fae Britain since Titania herself. What you want in return is their claim, directed through you, and a sworn oath.
+
+---
+
+**The complication you don't know yet:** Oberon has the shard. He moved against you before the Revel started, which means he knows what you're hunting. He has been one step ahead. Watch what he asks about. Watch who he keeps close. He will use the heir against you if he reaches them first.
+
+**What your court can do:**
+- Work the Beast Court guests socially to find the thief
+- Protect you during the confrontation at the thief's room
+- Run interference on Oberon's social orbit while you talk to Annis
+- Help identify the heir by watching for Titania's bloodline markers: silver surfacing in Glamour under pressure, an instinctive sensitivity to hospitality law bending, a tendency toward Sight
+- Keep the Watcher — whoever is quietly guarding the heir — occupied while you get the heir alone

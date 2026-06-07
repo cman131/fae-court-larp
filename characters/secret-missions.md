@@ -3,6 +3,7 @@
 ## Contents
 - [Setup Instructions](#setup-instructions)
 - [Cards](#cards): [M-01](#m-01) · [M-02](#m-02) · [M-03](#m-03) · [M-04](#m-04) · [M-05](#m-05) · [M-06](#m-06) · [M-07](#m-07) · [M-08](#m-08) · [M-09](#m-09) · [M-10](#m-10) · [M-11](#m-11) · [M-12](#m-12) · [M-13](#m-13) · [M-14](#m-14) · [M-15](#m-15) · [M-16](#m-16) · [M-17](#m-17) · [M-18](#m-18) · [M-19](#m-19) · [M-20](#m-20) · [M-21](#m-21) · [M-22](#m-22) · [M-23](#m-23) · [M-24](#m-24) · [M-25](#m-25) · [M-26](#m-26)
+- [Storyteller-Assigned Cards](#storyteller-assigned-cards): [M-27](#m-27) · [M-28](#m-28)
 
 ---
 
@@ -150,4 +151,28 @@ Something is wrong with Oberon — not wrong the way a rumor is wrong, but wrong
 
 ---
 
-*Document version 2. Add, cut, or reweight cards to suit your cast and the plots you most want to see at the table.*
+## Storyteller-Assigned Cards
+
+These cards are **not for random draw.** The storyteller assigns them directly at session zero as part of the Hidden Heir court storyline. See `storylines/court-of-mirrors/hidden-heir.md` for full context.
+
+### M-27
+
+*(Assigned to a designated pool Sidhe or Sprite. Tell this player privately which guest they are protecting.)*
+
+You were hired anonymously three months ago to attend this Revel and ensure the safety of a specific guest — someone you will recognize when you arrive. You do not know why this person needs protection, only that whoever hired you was ancient, deliberate, and very specific about your oath of silence. You are bound by that oath not to reveal their identity to anyone. If they seem to be in danger, act. Otherwise, watch and say nothing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### M-28
+
+*(Assigned to a designated pool Sidhe or Sprite. Not for random draw.)*
+
+You have always felt different — more attuned to the old ways than those around you. When you use Glamour under pressure, silver surfaces in it unbidden, no matter how you try to suppress it. You feel hospitality rules bending before you can name why. And every so often, you dream of a silver crown — not yours exactly, but familiar.
+
+Tonight, more than ever, something feels different about you and about this Revel. You are here as [Name] of [Court] — but you have wondered, quietly, whether that is the whole story.
+
+If someone approaches you tonight claiming to know the truth of your lineage, they may not be lying. What you do with that knowledge is yours to decide.
+
+---
+
+*Document version 3. Add, cut, or reweight cards to suit your cast and the plots you most want to see at the table.*
