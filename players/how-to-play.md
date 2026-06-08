@@ -6,7 +6,8 @@ This is everything you need to know to act, contest, and resolve outcomes during
 ## Contents
 - [Stats](#stats)
 - [Tokens](#tokens)
-- [Ability Uses](#ability-uses)
+- [Skills](#skills)
+- [Powers](#powers)
 - [Resolving a Conflict](#resolving-a-conflict)
 - [Using Abilities](#using-abilities)
 - [Hospitality — the Rules of the Revel](#hospitality--the-rules-of-the-revel)
@@ -27,7 +28,7 @@ You have nine stats organized into three categories. Each stat is rated 0–3 an
 - **Grace** — speed, agility, the fae's ethereal movement
 - **Mettle** — endurance, resilience, resistance to harm and compulsion
 
-**Glamour** *(social)*
+**Court** *(social)*
 - **Glamour** — beauty, charm, the bewitching fae aura
 - **Presence** — authority, the weight of rank and bearing
 - **Guile** — clever words, manipulation, double-meanings, deception
@@ -35,7 +36,7 @@ You have nine stats organized into three categories. Each stat is rated 0–3 an
 **Wyrd** *(magical / perceptual)*
 - **Sight** — perception, second sight, seeing through illusions
 - **Lore** — wisdom, ancient knowledge, riddles, the old pacts
-- **Craft** — active magic-working, enchantment, raw fae power
+- **Cunning** — quick thinking, adaptability, magical instinct
 
 Stat points spent for re-tests are gone for the night. There is no refresh.
 
@@ -47,9 +48,29 @@ Tokens represent items, favors, small reserves you brought to the Revel — a gi
 
 ---
 
-## Ability Uses
+## Skills
 
-Abilities are purchased at character creation by spending stat points. Each purchase gives you one use of that ability for the evening. When you activate an ability, mark off a use on your sheet. When your uses of an ability are gone, that ability is unavailable for the rest of the night — there is no refresh.
+You have fifteen skills rated 0–5. Like stats, skills are **re-test pools** — spend 1 point from a relevant skill to demand a fresh RPS throw. Points spent are gone for the night.
+
+Skills are purchased at character creation using your Skill point budget (separate from Attribute points). See [rules/skills.md](../rules/skills.md) for the full list.
+
+---
+
+## Powers
+
+### Disciplines
+
+You may invest Power points in any of the five universal disciplines (Imbas, Geis, Veil, Awen, The Green). Disciplines have three levels — buy them in sequence at 1 Power point per level. Higher levels grant additional powers; you keep all lower-level powers too.
+
+### Wyrd pool
+
+Each character has a Wyrd pool (Sovereign 10, Sidhe 7, Sprite 5). Spend 1 Wyrd to activate most discipline powers, or 2 Wyrd for the most powerful level 3 effects. Your Wyrd pool **refreshes fully at the start of each session**.
+
+### Court abilities
+
+Court abilities work as before — purchased as individual uses (max 3 per ability) at a Power point cost equal to their tier. Your court's pool is available to you; cross-court abilities cost 2 Power points to unlock.
+
+Full descriptions: [rules/abilities.md](../rules/abilities.md)
 
 ---
 
