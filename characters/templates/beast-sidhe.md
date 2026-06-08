@@ -1,6 +1,6 @@
 # Beast Sidhe — Court of Beasts Template
 
-> You are a Sidhe of the Court of Beasts, sworn to Spriggan. Choose your own fae name and draw one Secret Mission card at session zero.
+> You are a Sidhe of the Court of Beasts, sworn to Woodwose. Choose your own fae name and draw one Secret Mission card at session zero.
 
 ---
 
@@ -42,7 +42,7 @@ Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 
 ## Public Goals
 
-1. Support Spriggan's claim against Mab — be present as a witness when the debt is named.
+1. Support Woodwose's claim against Mab — be present as a witness when the debt is named.
 2. Refuse all small bargains offered by Mirror Sidhe tonight, no matter how generous. They are how Mab peels off support.
 
 ---
@@ -71,4 +71,4 @@ Negotiate the specifics with each chosen player.
 
 ## Court Call
 
-Spriggan will direct you in advancing *The Old Debt* — blocking Mab's exits, bringing witnesses, refusing bargains. Be available when she calls. Remember: in your court, presence is loyalty. Stand where you are needed.
+Woodwose will direct you in advancing *The Old Debt* — blocking Mab's exits, bringing witnesses, refusing bargains. Be available when she calls. Remember: in your court, presence is loyalty. Stand where you are needed.

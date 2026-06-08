@@ -41,7 +41,7 @@ Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 ## Public Goals
 
 1. Watch Mab's people during Acts II–III. Note where they go and with whom.
-2. When Spriggan calls the debt in Act IV, be physically present as a witness.
+2. When Woodwose calls the debt in Act IV, be physically present as a witness.
 
 ---
 
@@ -69,4 +69,4 @@ Negotiate the specifics with each chosen player.
 
 ## Court Call
 
-Spriggan uses you as eyes and as a presence. Stand where Mab's people do not want you to stand.
+Woodwose uses you as eyes and as a presence. Stand where Mab's people do not want you to stand.

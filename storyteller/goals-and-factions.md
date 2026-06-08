@@ -30,7 +30,7 @@ The examples below are drawn from the named characters. Full assigned goals are 
 
 ## Spriggan — Court of Beasts
 
-*See full brief: [characters/named/spriggan.md](../characters/named/spriggan.md)*
+*See full brief: [characters/named/woodwose.md](../characters/named/woodwose.md)*
 
 - *Public:* Force Mab to repay an ancient debt before the night ends.
 - *Public:* Get the Queen's blessing for a hunt on contested land.
