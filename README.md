@@ -31,7 +31,7 @@ Each file below is a private brief for one pre-cast role. **Give each player onl
 |---|---|---|
 | Oberon | Autumn Forest | [oberon.md](characters/named/oberon.md) — **read privately; do not share** |
 | Aurora | Court of Storms | [aurora.md](characters/named/aurora.md) |
-| Spriggan | Court of Beasts | [spriggan.md](characters/named/spriggan.md) |
+| Woodwose | Court of Beasts | [woodwose.md](characters/named/woodwose.md) |
 | Mab | Court of Mirrors | [mab.md](characters/named/mab.md) |
 | Barghest | Queen's Court | [barghest.md](characters/named/barghest.md) |
 | Mélusine | Queen's Court | [melusine.md](characters/named/melusine.md) |
@@ -73,8 +73,8 @@ Background reading for the setting and mechanics.
 
 - [Concept and World](world/concept.md) — the premise, Morgan's withdrawal, tonight's situation
 - [The Courts](world/courts.md) — all five factions described
-- [Rank and Stats](rules/rank-and-stats.md) — Sovereign/Sidhe/Sprite tiers, point allocations, nine stats in three categories (Iron/Glamour/Wyrd)
-- [Abilities](rules/abilities.md) — ability pools, tier costs, and purchasing rules (Iron, Wyrd, Glamour, and per-court pools)
+- [Rank and Stats](rules/rank-and-stats.md) — Sovereign/Sidhe/Sprite tiers, point allocations, nine stats in three categories (Iron/Court/Wyrd)
+- [Abilities](rules/abilities.md) — five universal disciplines (Imbas, Geis, Veil, Awen, The Green) plus per-court abilities, tier costs, and purchasing rules
 - [Named Character Abilities](rules/named-abilities.md) — Knight signatures and Oberon's ability sheets (storyteller reference)
 - [Conflict Resolution](rules/conflict-resolution.md) — RPS throw, stat tie-breakers, re-test procedure
 - [Hospitality Rules](rules/hospitality.md) — what is and isn't permitted until Act IV

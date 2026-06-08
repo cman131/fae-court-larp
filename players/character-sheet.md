@@ -14,7 +14,7 @@
 
 **Faction / Court** *(circle one)*:
 - Court of Storms *(Aurora's)*
-- Court of Beasts *(Spriggan's)*
+- Court of Beasts *(Woodwose's)*
 - Court of Mirrors *(Mab's)*
 - The Queen's Court *(Knight)*
 - The Autumn Forest *(Oberon only)*

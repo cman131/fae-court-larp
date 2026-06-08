@@ -143,7 +143,7 @@ Characters have two kinds of powers: **disciplines** (universal — available to
 
 ## Court of Beasts
 
-*(Spriggan's court — members only, or cross-court unlock)*
+*(Woodwose's court — members only, or cross-court unlock)*
 
 - **Earth-Sense** *(Tier 1 — 1 pt/use)* — Detect when anyone in your line of sight is lying about a location, a movement, or a meeting.
 - **Old Grudge** *(Tier 2 — 2 pts/use)* — Publicly name a wrong done to your clan. The accused must respond honestly or spend a Presence point to deflect.
