@@ -7,7 +7,7 @@
 **Your fae name:** ____________________ *(Examples: Pickpocket, Echo, Halfpenny, Nim.)*
 
 **Faction:** Court of Mirrors.
-**Rank:** Sprite. 5 stat points. 2 abilities. 1 token.
+**Rank:** Sprite. 10 Attribute pts / 13 Skill pts / 3 Power pts. 1 token.
 
 ---
 
@@ -19,19 +19,22 @@ A boggart, an imp, a trickster — small, quick, the courtly fae's nuisance and 
 
 ## Stats
 
-**Suggested:** Wyrd 3, Glamour 1, Iron 1.
+**Suggested attributes (10 pts):** Might 0, Grace 1, Mettle 1, Glamour 2, Presence 0, Guile 3, Sight 1, Lore 1, Cunning 1
+
+**Suggested skills (13 pts — use 1×4, 1×3, 2×2, 2×1 template):**
+Stealth 4, Investigation 3, Empathy 2, Court Politics 2, Fae Law 1, Heraldry 1
 
 ---
 
-## Abilities
+## Powers
 
-*(2 picks — suggested one Mirror court + one Universal)*
+*(3 Power points — suggested allocation)*
 
-Choose from:
-- *Court:* Maskwear, Boggart Bargain, Hall of Mirrors
-- *Universal:* Trueseeing, Glamour-Strike, Whispered Tongue, Hearth's Mercy
+- **Veil** level 1 — 1 pt
+- **Maskwear** use — 1 pt
+- **Maskwear** use — 1 pt
 
-Full ability descriptions: [rules/abilities.md](../../rules/abilities.md)
+Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 
 ---
 

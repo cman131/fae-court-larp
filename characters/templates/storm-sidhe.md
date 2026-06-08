@@ -7,7 +7,7 @@
 **Your fae name:** ____________________ *(Suggested elements: sky, dawn, song, cloud, north wind, high air. Examples: Caelhaer, Brídh of the High Air, Aurel Cloudborn.)*
 
 **Faction:** Court of Storms.
-**Rank:** Sidhe. 8 stat points (max 4 in any). 3 abilities. 2 tokens.
+**Rank:** Sidhe. 15 Attribute pts / 20 Skill pts / 5 Power pts. 2 tokens.
 
 ---
 
@@ -19,19 +19,23 @@ Pale, bright-eyed, hair like cloud or mist. Courtly dress with feathers, gauze, 
 
 ## Stats
 
-**Suggested baseline — adjust to taste:** Glamour 4, Wyrd 2, Iron 2.
+**Suggested attributes (15 pts):** Might 1, Grace 2, Mettle 1, Glamour 3, Presence 2, Guile 2, Sight 2, Lore 1, Cunning 1
+
+**Suggested skills (20 pts — use 1×4, 2×3, 3×2, 4×1 template):**
+Reveling 4, Empathy 3, Court Protocol 3, Court Politics 2, Faerie Lore 2, Awareness 2, Intimidation 1, Fae Law 1, Heraldry 1, Investigation 1
 
 ---
 
-## Abilities
+## Powers
 
-*(3 picks — take at least one Storm court ability)*
+*(5 Power points — suggested allocation)*
 
-Choose from:
-- *Court:* Lure of the Revel, Stormwalk, Song of Aurora
-- *Universal:* Glamour-Strike, Iron Word, Whispered Tongue, Hearth's Mercy, Trueseeing
+- **Awen** level 1 — 1 pt *(project awe or dread)*
+- **Lure of the Revel** use — 1 pt
+- **Lure of the Revel** use — 1 pt
+- **Stormwalk** use — 2 pts
 
-Full ability descriptions: [rules/abilities.md](../../rules/abilities.md)
+Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 
 ---
 

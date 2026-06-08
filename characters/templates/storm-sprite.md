@@ -7,7 +7,7 @@
 **Your fae name:** ____________________ *(Sprite-flavored: shorter, lighter, more elemental. Examples: Wisp, Aethel, Linn.)*
 
 **Faction:** Court of Storms.
-**Rank:** Sprite. 5 stat points (max 3 in any). 2 abilities. 1 token.
+**Rank:** Sprite. 10 Attribute pts / 13 Skill pts / 3 Power pts. 1 token.
 
 ---
 
@@ -19,19 +19,22 @@ Small, restless, less courtly than the Sidhe. Light or wind ribbons trail you. Y
 
 ## Stats
 
-**Suggested:** Glamour 2, Wyrd 2, Iron 1.
+**Suggested attributes (10 pts):** Might 0, Grace 2, Mettle 1, Glamour 3, Presence 2, Guile 1, Sight 1, Lore 0, Cunning 0
+
+**Suggested skills (13 pts — use 1×4, 1×3, 2×2, 2×1 template):**
+Reveling 4, Empathy 3, Court Protocol 2, Awareness 2, Fae Law 1, Court Politics 1
 
 ---
 
-## Abilities
+## Powers
 
-*(2 picks — suggested mix of one Storm court + one Universal)*
+*(3 Power points — suggested allocation)*
 
-Choose from:
-- *Court:* Lure of the Revel, Stormwalk, Song of Aurora
-- *Universal:* Glamour-Strike, Iron Word, Whispered Tongue, Hearth's Mercy, Trueseeing
+- **Awen** level 1 — 1 pt
+- **Lure of the Revel** use — 1 pt
+- **Lure of the Revel** use — 1 pt
 
-Full ability descriptions: [rules/abilities.md](../../rules/abilities.md)
+Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 
 ---
 

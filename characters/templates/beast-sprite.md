@@ -7,7 +7,7 @@
 **Your fae name:** ____________________ *(Examples: Bramble, Mire, Crow, Roe.)*
 
 **Faction:** Court of Beasts.
-**Rank:** Sprite. 5 stat points. 2 abilities. 1 token.
+**Rank:** Sprite. 10 Attribute pts / 13 Skill pts / 3 Power pts. 1 token.
 
 ---
 
@@ -19,19 +19,22 @@ Small, watchful, more animal than courtly. The Sidhe of other courts may not eve
 
 ## Stats
 
-**Suggested:** Iron 2, Wyrd 2, Glamour 1.
+**Suggested attributes (10 pts):** Might 2, Grace 1, Mettle 2, Glamour 1, Presence 0, Guile 0, Sight 1, Lore 1, Cunning 2
+
+**Suggested skills (13 pts — use 1×4, 1×3, 2×2, 2×1 template):**
+Beastcraft 4, Wildcraft 3, Brawl 2, Awareness 2, Intimidation 1, Faerie Lore 1
 
 ---
 
-## Abilities
+## Powers
 
-*(2 picks — suggested one Beast court + one Universal)*
+*(3 Power points — suggested allocation)*
 
-Choose from:
-- *Court:* Beast Form, Earth-Sense, Old Grudge
-- *Universal:* Iron Word, Trueseeing, Hearth's Mercy, Glamour-Strike
+- **The Green** level 1 — 1 pt
+- **Earth-Sense** use — 1 pt
+- **Earth-Sense** use — 1 pt
 
-Full ability descriptions: [rules/abilities.md](../../rules/abilities.md)
+Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 
 ---
 

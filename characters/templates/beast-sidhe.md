@@ -7,7 +7,7 @@
 **Your fae name:** ____________________ *(Suggested elements: earth, root, hunt, ancient woods, stone. Single syllables, hard consonants. Examples: Brock, Carn, Tane, Una of the Long Wood.)*
 
 **Faction:** Court of Beasts.
-**Rank:** Sidhe. 8 stat points. 3 abilities. 2 tokens.
+**Rank:** Sidhe. 15 Attribute pts / 20 Skill pts / 5 Power pts. 2 tokens.
 
 ---
 
@@ -19,19 +19,24 @@ Visibly inhuman. Wear at least one openly fae feature — small horns, claws, ey
 
 ## Stats
 
-**Suggested:** Iron 4, Wyrd 3, Glamour 1.
+**Suggested attributes (15 pts):** Might 2, Grace 1, Mettle 2, Glamour 1, Presence 1, Guile 1, Sight 2, Lore 2, Cunning 3
+
+**Suggested skills (20 pts — use 1×4, 2×3, 3×2, 4×1 template):**
+Beastcraft 4, Wildcraft 3, Bladesmanship 3, Brawl 2, Faerie Lore 2, Awareness 2, Intimidation 1, Heraldry 1, Investigation 1, Fae Law 1
 
 ---
 
-## Abilities
+## Powers
 
-*(3 picks — take at least one Beast court ability)*
+*(5 Power points — suggested allocation)*
 
-Choose from:
-- *Court:* Beast Form, Earth-Sense, Old Grudge
-- *Universal:* Iron Word, Trueseeing, Hearth's Mercy, Glamour-Strike
+- **The Green** level 1 — 1 pt *(passive animal sense + call animals)*
+- **Beast Form** use — 3 pts *(turn a lost physical challenge into a tie)*
+- **Earth-Sense** use — 1 pt *(detect lies about locations)*
 
-Full ability descriptions: [rules/abilities.md](../../rules/abilities.md)
+Or take **The Green** level 2 (2 pts) + **Beast Form** use (3 pts) for deeper wild-speaking.
+
+Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 
 ---
 

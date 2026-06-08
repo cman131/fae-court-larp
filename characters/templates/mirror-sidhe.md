@@ -7,7 +7,7 @@
 **Your fae name:** ____________________ *(Suggested elements: more urban, more human, sometimes mercantile or anglicized. Examples: Aldwin, Selene Halfmask, Corin of the Black Glass.)*
 
 **Faction:** Court of Mirrors.
-**Rank:** Sidhe. 8 stat points. 3 abilities. 2 tokens.
+**Rank:** Sidhe. 15 Attribute pts / 20 Skill pts / 5 Power pts. 2 tokens.
 
 ---
 
@@ -19,19 +19,23 @@ Well-dressed in a courtly-modern register — your court are the only fae who ca
 
 ## Stats
 
-**Suggested:** Wyrd 4, Glamour 3, Iron 1.
+**Suggested attributes (15 pts):** Might 0, Grace 1, Mettle 1, Glamour 2, Presence 1, Guile 3, Sight 2, Lore 2, Cunning 3
+
+**Suggested skills (20 pts — use 1×4, 2×3, 3×2, 4×1 template):**
+Stealth 4, Investigation 3, Court Politics 3, Empathy 2, Faerie Lore 2, Heraldry 2, Fae Law 1, Awareness 1, Court Protocol 1, Intimidation 1
 
 ---
 
-## Abilities
+## Powers
 
-*(3 picks — take at least one Mirror court ability)*
+*(5 Power points — suggested allocation)*
 
-Choose from:
-- *Court:* Maskwear, Boggart Bargain, Hall of Mirrors
-- *Universal:* Trueseeing, Glamour-Strike, Whispered Tongue, Hearth's Mercy
+- **Veil** level 1 — 1 pt *(stationary invisibility free; 1 Wyrd for mobile)*
+- **Boggart Bargain** use — 2 pts
+- **Maskwear** use — 1 pt
+- **Maskwear** use — 1 pt
 
-Full ability descriptions: [rules/abilities.md](../../rules/abilities.md)
+Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 
 ---
 
