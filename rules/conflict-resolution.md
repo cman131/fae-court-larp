@@ -3,7 +3,7 @@
 When two characters disagree on an outcome — a duel, a deception, a test of will — resolve it in four steps.
 
 **1. Name the stat.**
-The challenger names the specific stat at stake. Examples: *"This is a Might challenge"* (a brawl), *"This is a Guile challenge"* (a deception), *"This is a Craft challenge"* (a magical contest). If the other player disputes the choice, flag a storyteller.
+The challenger names the specific stat at stake. Examples: *"This is a Might challenge"* (a brawl), *"This is a Guile challenge"* (a deception), *"This is a Cunning challenge"* (a magical contest). If the other player disputes the choice, flag a storyteller.
 
 **2. Both throw rock-paper-scissors.**
 Throw simultaneously. **The winner of RPS wins the conflict.**
@@ -18,7 +18,7 @@ The losing party may spend **1 point** from the named stat to demand a fresh thr
 
 **Against unnamed extras** (background characters, minor NPCs with no stat sheet): spend 1 point from any relevant stat to win without throwing.
 
-**Multi-party conflicts**: a storyteller adjudicates. Allies may support by spending their own stat points one-for-one to add to a contested score.
+**Multi-party conflicts**: a storyteller adjudicates. Allies may support by spending their own stat or skill points one-for-one to add to a contested score.
 
 ---
 

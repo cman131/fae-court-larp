@@ -120,7 +120,7 @@ When three or more players are in a single conflict — a duel witnessed by a th
 
 - Decide which stat applies if it's contested.
 - Award narrative bonuses for evocative roleplay.
-- Allow allies to spend their own stat points in support, one-for-one.
+- Allow allies to spend their own stat or skill points in support, one-for-one.
 
 If you're uncertain how a group conflict should resolve, ask a storyteller before throwing.
 
