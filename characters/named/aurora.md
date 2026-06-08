@@ -5,7 +5,7 @@
 ## Contents
 - [Persona and Appearance](#persona-and-appearance)
 - [Stats](#stats)
-- [Abilities](#abilities)
+- [Powers](#powers)
 - [Public Goals](#public-goals)
 - [Secret Goal](#secret-goal)
 - [Relationships](#relationships)
@@ -17,7 +17,7 @@
 
 **Faction:** Court of Storms (your court).
 
-**Rank:** Sovereign (27 stat points; 3 tokens).
+**Rank:** Sovereign (20 Attribute pts / 28 Skill pts / 8 Power pts; 3 tokens).
 
 Tall, radiant, hair like cloud or sunrise. Move as though the air supports you. Speak warmly to inferiors and coolly to peers. Smile only when it costs the listener something.
 
@@ -27,19 +27,21 @@ Aurora leads the Wind Clan like a merchant empire. Wealth, favors, and debts acc
 
 ## Stats
 
-*(distribute 27 points across the nine stats; suggested distribution below)*
+*(distribute 20 Attribute points across the nine stats; suggested distribution below)*
 
-**Suggested:** Glamour 3, Presence 3, Guile 2, Lore 3, Craft 2, Sight 2, Might 1, Grace 2, Mettle 1 *(19 in stats, 8 remaining for ability purchases)*
+**Suggested attributes (20 pts):** Glamour 3, Presence 3, Guile 2, Lore 3, Cunning 2, Sight 2, Might 1, Grace 2, Mettle 2
+
+**Suggested skills (28 pts — use 1×4, 4×3, 4×2, 4×1 template):**
+Reveling 4, Empathy 3, Court Protocol 3, Court Politics 3, Faerie Lore 3, Awareness 2, Fae Law 2, Investigation 2, Heraldry 2, Intimidation 1, Beastcraft 1, Bladesmanship 1, Wildcraft 1
 
 ---
 
-## Abilities
+## Powers
 
-**Suggested picks:**
-- **Lure of the Revel** *(court)*
-- **Song of Aurora** *(court)*
-- **Glamour-Strike** *(universal)*
-- **Iron Word** *(universal)*
+**Suggested powers (8 pts):**
+- **Awen** level 2 — 2 pts *(awe/dread + entrancement/summon)*
+- **Song of Aurora** use — 3 pts
+- **Song of Aurora** use — 3 pts
 
 ---
 

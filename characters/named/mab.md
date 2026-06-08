@@ -5,7 +5,7 @@
 ## Contents
 - [Persona and Appearance](#persona-and-appearance)
 - [Stats](#stats)
-- [Abilities](#abilities)
+- [Powers](#powers)
 - [Public Goals](#public-goals)
 - [Secret Goal](#secret-goal)
 - [Relationships](#relationships)
@@ -17,7 +17,7 @@
 
 **Faction:** Court of Mirrors (your court).
 
-**Rank:** Sovereign (27 stat points; 3 tokens).
+**Rank:** Sovereign (20 Attribute pts / 28 Skill pts / 8 Power pts; 3 tokens).
 
 Refined, well-dressed, faintly mercurial. Your court is the youngest and the most mercantile; lean into that — a touch of human style alongside the fae. Speak quickly and pleasantly; laugh easily; never give away your second thought. You are the most well-informed person in the room and you must not look like it.
 
@@ -37,19 +37,21 @@ That was decades ago. You are Sovereign of the Court of Mirrors now — the same
 
 ## Stats
 
-*(distribute 27 points across the nine stats; suggested distribution below)*
+*(distribute 20 Attribute points across the nine stats; suggested distribution below)*
 
-**Suggested:** Glamour 3, Presence 3, Guile 3, Sight 3, Lore 3, Craft 2, Might 1, Grace 1, Mettle 1 *(20 in stats, 7 remaining for ability purchases)*
+**Suggested attributes (20 pts):** Glamour 3, Presence 2, Guile 3, Sight 3, Lore 2, Cunning 3, Might 1, Grace 1, Mettle 2
+
+**Suggested skills (28 pts — use 1×4, 4×3, 4×2, 4×1 template):**
+Stealth 4, Court Politics 3, Investigation 3, Heraldry 3, Empathy 3, Fae Law 2, Faerie Lore 2, Awareness 2, Intimidation 2, Beastcraft 1, Bladesmanship 1, Court Protocol 1, Wildcraft 1
 
 ---
 
-## Abilities
+## Powers
 
-**Suggested picks:**
-- **Maskwear** *(court)*
-- **Boggart Bargain** *(court)*
-- **Hall of Mirrors** *(court)*
-- **Trueseeing** *(universal)*
+**Suggested powers (8 pts):**
+- **Veil** level 2 — 2 pts *(mobile invisibility + disguise/memory wipe)*
+- **Hall of Mirrors** use — 3 pts
+- **Hall of Mirrors** use — 3 pts
 
 ---
 

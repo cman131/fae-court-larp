@@ -5,7 +5,7 @@
 ## Contents
 - [Persona and Appearance](#persona-and-appearance)
 - [Stats](#stats)
-- [Abilities](#abilities)
+- [Powers](#powers)
 - [Public Goals](#public-goals)
 - [Secret Goal](#secret-goal)
 - [Relationships](#relationships)
@@ -17,7 +17,7 @@
 
 **Faction:** Court of Beasts (your court).
 
-**Rank:** Sovereign (27 stat points; 3 tokens).
+**Rank:** Sovereign (20 Attribute pts / 28 Skill pts / 8 Power pts; 3 tokens).
 
 Massive, wolfman, visibly inhuman — the strongest hand-to-hand fighter at this Revel, and you carry that knowledge without arrogance; it is simply true. Wear at least two openly fae features that courtly Sidhe keep hidden: claws, a muzzle, fur, something that signals what you are the moment you enter the room. Move with the weight of something that has never needed to be subtle. Speak rarely, and when you do, with absolute certainty.
 
@@ -27,19 +27,23 @@ You carry a cursed demonic hunger that you have managed your entire life. Physic
 
 ## Stats
 
-*(distribute 27 points across the nine stats; suggested distribution below)*
+*(distribute 20 Attribute points across the nine stats; suggested distribution below)*
 
-**Suggested:** Might 4, Mettle 3, Grace 2, Lore 2, Sight 2, Craft 2, Presence 2, Glamour 1, Guile 1 *(19 in stats, 8 remaining for ability purchases)*
+**Suggested attributes (20 pts):** Might 3, Mettle 3, Grace 2, Lore 2, Sight 2, Cunning 2, Presence 2, Glamour 2, Guile 2
+
+**Suggested skills (28 pts — use 1×4, 4×3, 4×2, 4×1 template):**
+Brawl 4, Beastcraft 3, Wildcraft 3, Bladesmanship 3, Intimidation 3, Faerie Lore 2, Fae Law 2, Awareness 2, Heraldry 2, Court Protocol 1, Court Politics 1, Empathy 1, Investigation 1
 
 ---
 
-## Abilities
+## Powers
 
-**Suggested picks:**
-- **Beast Form** *(court)*
-- **Old Grudge** *(court)*
-- **Earth-Sense** *(court)*
-- **Iron Word** *(universal)*
+**Suggested powers (8 pts):**
+- **The Green** level 1 — 1 pt *(passive animal sense + call animals)*
+- **The Green** level 2 — 1 pt *(ride animal senses; rouse primal beast in a character)*
+- **Beast Form** use — 3 pts
+- **Old Grudge** use — 2 pts
+- **Earth-Sense** use — 1 pt
 
 ---
 

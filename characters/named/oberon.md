@@ -7,8 +7,8 @@
 ## Contents
 - [Public Persona and Appearance](#public-persona-and-appearance)
 - [Stats: Public Sheet](#stats-public-sheet)
-- [Abilities: Public Sheet](#abilities-public-sheet)
-- [Abilities: Secret Sheet](#abilities-secret-sheet)
+- [Powers: Public Sheet](#powers-public-sheet)
+- [Vortigern's Abilities (Secret)](#vortigerns-abilities-activated-at-the-reveal--do-not-use-before-the-storytellers-cue)
 - [Public Goals](#public-goals)
 - [Secret Goals](#secret-goals)
 - [Relationships and Mixer Strategy](#relationships-and-mixer-strategy)
@@ -20,7 +20,7 @@
 
 **Faction:** Sovereign of the **Autumn Forest**, the bleak country on the outskirts of Fairy Country where bullied fae, persecuted fae, fae accused of "spreading poison," and small powerless fae too innocent or simple for the cities' intrigues come to gather and die. He answers to no other Sovereign. He has come alone — the Autumn Forest can spare no other voice.
 
-**Rank:** Sovereign (27 stat points, 3 tokens). On reveal, gain +5 additional stat points distributed freely.
+**Rank:** Sovereign (20 Attribute pts / 28 Skill pts / 8 Power pts; 3 tokens). On reveal, gain +5 Attribute points distributed freely across any stats.
 
 Worn-noble. Dress as a Sovereign but a poor one — autumn leaves at your brow rather than gold; a coat that has been mended; soft shoes that have walked far. Gentle in voice, careful in gesture, the manner of one used to comforting the dying. Smile only when it serves a kindness. Be especially attentive to Sprites and small fae at the Revel — your country is full of those who could not survive the cities, and you remember each one by name. The performance is a Sovereign who has carried too many funerals.
 
@@ -30,15 +30,25 @@ Bring two costume layers: the gentle autumn-shepherd one for Acts I–IV, and be
 
 ## Stats: Public Sheet
 
-*(before reveal — distribute 27 points across the nine stats as suits your concept; suggested distribution below)*
+*(before reveal — distribute 20 Attribute points across the nine stats as suits your concept; suggested distribution below)*
 
-**Suggested:** Glamour 3, Presence 3, Guile 3, Lore 3, Craft 3, Sight 2, Might 1, Grace 1, Mettle 0 *(19 in stats, 8 remaining for ability purchases — plus +5 on reveal)*
+**Suggested attributes (20 pts):** Glamour 3, Presence 3, Guile 3, Lore 3, Cunning 3, Sight 2, Might 1, Grace 1, Mettle 1
+
+**Suggested skills (28 pts — use 1×4, 4×3, 4×2, 4×1 template):**
+Faerie Lore 4, Court Politics 3, Fae Law 3, Investigation 3, Empathy 3, Heraldry 2, Court Protocol 2, Awareness 2, Intimidation 2, Beastcraft 1, Reveling 1, Bladesmanship 1, Stealth 1
 
 ---
 
-## Abilities
+## Powers: Public Sheet
 
-Build your Oberon persona using the standard character sheet. Spend your stat points on stats and ability purchases from the normal pools (Iron, Wyrd, Glamour, and — if you choose — any court pool via the cross-court unlock). You have no unique pre-assigned abilities before the reveal; play Oberon's manner and behaviors through roleplay and whatever you purchase.
+Build your Oberon persona using the standard character sheet. Spend your 8 Power points on discipline levels and court ability uses (cross-court unlock costs 2 pts). You have no unique pre-assigned abilities before the reveal; play Oberon's manner and behaviors through roleplay and whatever you purchase.
+
+**Suggested powers (8 pts):**
+- **Geis** level 2 — 2 pts *(commands + memory rewriting)*
+- **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
+- **Awen** level 1 — 1 pt *(project awe or dread)*
+- **Cross-court unlock** — 2 pts *(choose any one court pool)*
+- 2 pts in Tier 1 court ability uses of your chosen court
 
 The three behaviors most central to Oberon's persona — hosting conflicts, entering private scenes, deflecting questions — are not mechanically distinct. Use Presence, Guile, and Lore challenges as the situation demands.
 
@@ -46,7 +56,7 @@ The three behaviors most central to Oberon's persona — hosting conflicts, ente
 
 *See [storyteller/vortigern-reveal.md](../../storyteller/vortigern-reveal.md) for the full reveal procedure.*
 
-- **Vortigern's Heart** — Fires automatically on the reveal. Gain +5 stat points distributed freely across any stats. All oaths Oberon swore are retroactively void.
+- **Vortigern's Heart** — Fires automatically on the reveal. Gain +5 Attribute points distributed freely across any stats. All oaths Oberon swore are retroactively void.
 - **Tyrant's Word** *(Wyrd)* — Passive for the rest of the evening: you cannot be lied to.
 - **The Long Hunger** *(Iron)* — Each character you defeat in a challenge after the reveal: choose one of their purchased abilities. You may use that ability once tonight as if you had bought a use of it.
 

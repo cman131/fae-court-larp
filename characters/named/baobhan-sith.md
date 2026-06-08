@@ -6,7 +6,7 @@
 - [Persona and Appearance](#persona-and-appearance)
 - [History](#history)
 - [Stats](#stats)
-- [Abilities](#abilities)
+- [Powers](#powers)
 - [Public Goals](#public-goals)
 - [Secret Goal](#secret-goal)
 - [Relationships](#relationships)
@@ -17,7 +17,7 @@
 
 **Faction:** Queen's Court (the Knights).
 
-**Rank:** Sidhe (17 stat points), with the Knight's signature ability.
+**Rank:** Sidhe (15 Attribute pts / 20 Skill pts / 5 Power pts; 2 tokens), with the Knight's signature ability.
 
 Strikingly beautiful, music-coded — instruments, jewelry of bells or strings, fine courtly dress with one or two hidden blades. Charming to a calculated degree; sing or hum quietly as you move. The Knight most likely to be underestimated.
 
@@ -33,20 +33,25 @@ She gave you a key to the Hawthorn Tower quietly, months ago, when she began to 
 
 ## Stats
 
-*(distribute 17 points across the nine stats; Knight signature is granted free on top)*
+*(distribute 15 Attribute points across the nine stats; Knight signature granted free on top)*
 
-**Suggested:** Glamour 3, Presence 3, Guile 2, Lore 3, Craft 2, Sight 2, Might 1, Grace 1, Mettle 0 *(17 total — reduce any stat by 1–2 to free stat points for ability purchases)*
+**Suggested attributes (15 pts):** Glamour 3, Presence 3, Guile 2, Lore 3, Cunning 1, Sight 2, Might 0, Grace 1, Mettle 0
+
+**Suggested skills (20 pts — use 1×4, 2×3, 3×2, 4×1 template):**
+Reveling 4, Empathy 3, Court Politics 3, Faerie Lore 2, Court Protocol 2, Awareness 2, Intimidation 1, Fae Law 1, Heraldry 1, Investigation 1
 
 ---
 
-## Abilities
+## Powers
 
-**Wind's Lament** is pre-loaded with 1 use before you spend any stat points. You cannot purchase more uses of it.
+**Wind's Lament** is pre-loaded with 1 use. It does not cost Power points.
 
-Spend your remaining stat points on stats and ability purchases from the standard pools as you see fit. Suggested purchases to fit the character:
-- **Trueseeing** *(Wyrd — Tier 3, 3 pts/use)*
-- **Glamour-Strike** *(Glamour — Tier 2, 2 pts/use)*
-- **Whispered Tongue** *(Wyrd — Tier 1, 1 pt/use)*
+Spend your 5 Power points on disciplines and court ability uses. As a Knight, you choose one court pool to buy from freely — Court of Storms suits Baobhan Sith's musical nature. Suggested allocation:
+- **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
+- **Imbas** level 2 — 1 pt *(touch impressions; surface thought-reading)*
+- **Awen** level 1 — 1 pt *(project awe or dread)*
+- **Lure of the Revel** use — 1 pt *(draw someone into private conversation for 3 minutes)*
+- **Lure of the Revel** use — 1 pt
 
 ---
 

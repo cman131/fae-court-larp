@@ -6,7 +6,7 @@
 - [Persona and Appearance](#persona-and-appearance)
 - [History](#history)
 - [Stats](#stats)
-- [Abilities](#abilities)
+- [Powers](#powers)
 - [Public Goals](#public-goals)
 - [Secret Goal](#secret-goal)
 - [Relationships](#relationships)
@@ -18,7 +18,7 @@
 
 **Faction:** Queen's Court (the Knights). Senior among the three.
 
-**Rank:** Sidhe (17 stat points), with the Knight's signature ability.
+**Rank:** Sidhe (15 Attribute pts / 20 Skill pts / 5 Power pts; 2 tokens), with the Knight's signature ability.
 
 Tall, sun-coloured, in formal warrior dress or polished armor. Carry a visible blade. Honor-bound, direct, slow to anger and slower to forgive. You preside in Morgan's absence — every other person in the room knows your authority comes from her, and that her authority is, tonight, an empty chair.
 
@@ -34,20 +34,24 @@ Three weeks before the Revel, you swept through the Autumn Forest on what appear
 
 ## Stats
 
-*(distribute 17 points across the nine stats; Knight signature is granted free on top)*
+*(distribute 15 Attribute points across the nine stats; Knight signature granted free on top)*
 
-**Suggested:** Might 3, Grace 2, Mettle 3, Glamour 1, Presence 2, Guile 1, Sight 2, Lore 2, Craft 1 *(17 total — reduce any stat by 1–2 to free stat points for ability purchases)*
+**Suggested attributes (15 pts):** Might 3, Grace 2, Mettle 3, Glamour 0, Presence 2, Guile 1, Sight 2, Lore 1, Cunning 1
+
+**Suggested skills (20 pts — use 1×4, 2×3, 3×2, 4×1 template):**
+Bladesmanship 4, Brawl 3, Intimidation 3, Faerie Lore 2, Fae Law 2, Awareness 2, Court Protocol 1, Heraldry 1, Court Politics 1, Investigation 1
 
 ---
 
-## Abilities
+## Powers
 
-**Sun's Edge** is pre-loaded with 1 use before you spend any stat points. You cannot purchase more uses of it.
+**Sun's Edge** is pre-loaded with 1 use. It does not cost Power points.
 
-Spend your remaining stat points on stats and ability purchases from the standard pools as you see fit. Suggested purchases to fit the character:
-- **Iron Word** *(Glamour — Tier 1, 1 pt/use)*
-- **Trueseeing** *(Wyrd — Tier 3, 3 pts/use)*
-- **Hearth's Mercy** *(Wyrd — Tier 2, 2 pts/use)*
+Spend your 5 Power points on disciplines and court ability uses. As a Knight, you choose one court pool to buy from freely — Barghest's background makes Court of Beasts the natural choice. Suggested allocation:
+- **Geis** level 1 — 1 pt *(command or post-hypnotic instruction; requires eye contact)*
+- **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
+- **Old Grudge** use — 2 pts *(name a wrong done to your clan; accused must respond or spend Presence)*
+- **Earth-Sense** use — 1 pt *(detect lies about locations and meetings)*
 
 ---
 
