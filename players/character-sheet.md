@@ -1,6 +1,6 @@
 # Character Sheet — *The Queen's Revel*
 
-> Fill this out at session zero. Bring it to the Revel. Mark spent stats and ability uses during play.
+> Fill this out at session zero. Bring it to the Revel.
 
 ---
 
@@ -26,17 +26,15 @@
 
 ---
 
-## Stats
+## Attributes
 
-Fill in bubbles at character creation — each bubble costs 1 stat point. Cross off bubbles during play when you spend a stat point for a re-test. Spent points do not refresh.
+Fill in bubbles — each bubble costs 1 Attribute point. Cross off during play when you spend for a re-test. Points spent do not refresh. Max 3 per stat.
 
-| Rank | Stat Points |
+| Rank | Attribute Points |
 |---|---|
-| Sovereign | 27 |
-| Sidhe | 17 |
-| Sprite | 11 |
-
-Max 3 in any stat. Stat points are shared with ability purchases below.
+| Sovereign | 20 |
+| Sidhe | 15 |
+| Sprite | 10 |
 
 ### Iron *(physical)*
 
@@ -46,7 +44,7 @@ Max 3 in any stat. Stat points are shared with ability purchases below.
 
 **Mettle** *(endurance, resilience, resist compulsion)* &nbsp; ○ ○ ○
 
-### Glamour *(social)*
+### Court *(social)*
 
 **Glamour** *(beauty, charm, fae aura)* &nbsp; ○ ○ ○
 
@@ -60,71 +58,113 @@ Max 3 in any stat. Stat points are shared with ability purchases below.
 
 **Lore** *(ancient knowledge, riddles, old pacts)* &nbsp; ○ ○ ○
 
-**Craft** *(magic-working, enchantment)* &nbsp; ○ ○ ○
+**Cunning** *(quick thinking, magical instinct)* &nbsp; ○ ○ ○
 
 ---
 
-## Abilities
+## Skills
 
-Fill in bubbles to purchase uses — each filled bubble is one use for the evening. Each bubble costs 1 stat point unless a higher cost is shown in parentheses. Cross off bubbles during play when you activate an ability. Uses do not refresh.
+Fill in bubbles — each bubble costs 1 Skill point. Cross off during play when you spend for a re-test. Max 5 per skill.
 
-Buy from the three universal pools and your court's pool. Court pools are gated — fill in only your court's pool (or one you have unlocked).
+| Rank | Skill Points | Structured template |
+|---|---|---|
+| Sovereign | 28 | 1×4, 4×3, 4×2, 4×1 |
+| Sidhe | 20 | 1×4, 2×3, 3×2, 4×1 |
+| Sprite | 13 | 1×4, 1×3, 2×2, 2×1 |
 
-> Full ability descriptions: [rules/abilities.md](../rules/abilities.md)
+> Full skill descriptions: [rules/skills.md](../rules/skills.md)
 
-### Universal — Iron
+### Talents
 
-**Steadfast** &nbsp; ○ ○ ○
+**Brawl** &nbsp; ○ ○ ○ ○ ○
 
-**Iron Stride** *(2 pts)* &nbsp; ○ ○ ○
+**Awareness** &nbsp; ○ ○ ○ ○ ○
 
-**Unyielding** *(3 pts)* &nbsp; ○ ○ ○
+**Empathy** &nbsp; ○ ○ ○ ○ ○
 
-### Universal — Wyrd
+**Intimidation** &nbsp; ○ ○ ○ ○ ○
 
-**Whispered Tongue** &nbsp; ○ ○ ○
+**Reveling** &nbsp; ○ ○ ○ ○ ○
 
-**Hearth's Mercy** *(2 pts)* &nbsp; ○ ○ ○
+### Skills
 
-**Trueseeing** *(3 pts)* &nbsp; ○ ○ ○
+**Bladesmanship** &nbsp; ○ ○ ○ ○ ○
 
-### Universal — Glamour
+**Stealth** &nbsp; ○ ○ ○ ○ ○
 
-**Iron Word** &nbsp; ○ ○ ○
+**Court Protocol** &nbsp; ○ ○ ○ ○ ○
 
-**Glamour-Strike** *(2 pts)* &nbsp; ○ ○ ○
+**Wildcraft** &nbsp; ○ ○ ○ ○ ○
 
-**Reverie** *(3 pts)* &nbsp; ○ ○ ○
+**Beastcraft** &nbsp; ○ ○ ○ ○ ○
+
+### Knowledges
+
+**Faerie Lore** &nbsp; ○ ○ ○ ○ ○
+
+**Fae Law** &nbsp; ○ ○ ○ ○ ○
+
+**Investigation** &nbsp; ○ ○ ○ ○ ○
+
+**Court Politics** &nbsp; ○ ○ ○ ○ ○
+
+**Heraldry** &nbsp; ○ ○ ○ ○ ○
+
+---
+
+## Powers
+
+| Rank | Power Points |
+|---|---|
+| Sovereign | 8 |
+| Sidhe | 5 |
+| Sprite | 3 |
+
+Discipline levels cost 1 Power point each (must buy in sequence). Court ability uses cost 1 / 2 / 3 pts for Tier 1 / 2 / 3 (max 3 uses per ability). Cross-court unlock: 2 pts.
+
+> Full power descriptions: [rules/abilities.md](../rules/abilities.md)
+
+### Disciplines *(universal — available to all)*
+
+**Imbas** *(prophetic sight)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
+
+**Geis** *(the binding)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
+
+**Veil** *(the hidden glamour)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
+
+**Awen** *(sovereign magnetism)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
+
+**The Green** *(the wild bond)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
 
 ### Court of Storms *(members and unlock-holders only)*
 
-**Lure of the Revel** &nbsp; ○ ○ ○
+**Lure of the Revel** *(Tier 1)* &nbsp; ○ ○ ○
 
-**Stormwalk** *(2 pts)* &nbsp; ○ ○ ○
+**Stormwalk** *(Tier 2)* &nbsp; ○ ○ ○
 
-**Song of Aurora** *(3 pts)* &nbsp; ○ ○ ○
+**Song of Aurora** *(Tier 3)* &nbsp; ○ ○ ○
 
 ### Court of Beasts *(members and unlock-holders only)*
 
-**Earth-Sense** &nbsp; ○ ○ ○
+**Earth-Sense** *(Tier 1)* &nbsp; ○ ○ ○
 
-**Old Grudge** *(2 pts)* &nbsp; ○ ○ ○
+**Old Grudge** *(Tier 2)* &nbsp; ○ ○ ○
 
-**Beast Form** *(3 pts)* &nbsp; ○ ○ ○
+**Beast Form** *(Tier 3)* &nbsp; ○ ○ ○
 
 ### Court of Mirrors *(members and unlock-holders only)*
 
-**Maskwear** &nbsp; ○ ○ ○
+**Maskwear** *(Tier 1)* &nbsp; ○ ○ ○
 
-**Boggart Bargain** *(2 pts)* &nbsp; ○ ○ ○
+**Boggart Bargain** *(Tier 2)* &nbsp; ○ ○ ○
 
-**Hall of Mirrors** *(3 pts)* &nbsp; ○ ○ ○
+**Hall of Mirrors** *(Tier 3)* &nbsp; ○ ○ ○
 
 ### Cross-court unlock *(optional)*
 
-**Cross-court unlock** *(2 pts)* &nbsp; ○ — Ability: _________________________ from Court of _________________________
+**Cross-court unlock** *(2 pts)* &nbsp; □ — Ability: _________________________ from Court of _________________________
 
-### Knight signature *(granted free — does not cost stat points)*
+### Knight signature *(granted free — does not cost Power points)*
 
 **Sun's Edge** *(pre-loaded — cannot buy more uses)* &nbsp; ○ &nbsp; *(Barghest)*
 
@@ -133,6 +173,22 @@ Buy from the three universal pools and your court's pool. Court pools are gated 
 **Wind's Lament** *(pre-loaded — cannot buy more uses)* &nbsp; ○ &nbsp; *(Baobhan Sith)*
 
 > *Sovereign of the Autumn Forest (Oberon): your abilities are listed on your private brief.*
+
+---
+
+## Wyrd Pool
+
+Spend Wyrd to activate discipline powers (1 Wyrd for most, 2 Wyrd for level 3 powers). **Refreshes fully at session start.**
+
+| Rank | Wyrd |
+|---|---|
+| Sovereign | 10 |
+| Sidhe | 7 |
+| Sprite | 5 |
+
+○ ○ ○ ○ ○ ○ ○ ○ ○ ○
+
+*(Cross off bubbles as you spend. Re-fill at session start.)*
 
 ---
 
@@ -180,8 +236,6 @@ These are the goals other characters might guess you have. They drive your visib
 ---
 
 ## Notes during play
-
-Use this space for things you learn, oaths sworn aloud, debts incurred, and reminders to yourself.
 
 ___________________________________________________
 
