@@ -14,19 +14,22 @@ Below uses Sovereign / Sidhe / Sprite.
 
 ### Point allocations by rank
 
-| Rank | Stat Points | Tokens |
-|---|---|---|
-| Sovereign | 27 | 3 |
-| Sidhe | 17 | 2 |
-| Sprite | 11 | 1 |
+Characters have three separate point pools at creation. Spend each pool only within its category.
 
-Max 3 in any stat (3 bubbles per stat on the character sheet).
+| Rank | Attribute Points | Skill Points | Power Points | Wyrd Pool | Tokens |
+|---|---|---|---|---|---|
+| Sovereign | 20 | 28 | 8 | 10 | 3 |
+| Sidhe | 15 | 20 | 5 | 7 | 2 |
+| Sprite | 10 | 13 | 3 | 5 | 1 |
 
-Distribute stat points freely across stats and ability purchases — see [abilities.md](abilities.md) for how to spend on ability uses. No minimum per stat; no per-category cap.
+Sidhe attribute and skill totals match MET VtM (By Night Studios) standard character creation exactly.
+
+**Attribute points** — spent on the nine stats below (max 3 per stat).
+**Skill points** — spent on the fifteen skills in [skills.md](skills.md) (max 5 per skill). See that file for the structured distribution template.
+**Power points** — spent on discipline levels and court ability uses. See [abilities.md](abilities.md).
+**Wyrd pool** — fixed, not purchased. Spend Wyrd to activate discipline powers. Refreshes fully at session start.
 
 Knights are built on the Sidhe chassis with their signature ability granted free on top of their normal budget. Oberon is built on the Sovereign chassis with a secret ability sheet revealed at the climax.
-
-> **Note:** Character briefs currently list stat suggestions using the old three-stat format. Redistribute those totals among the nine stats below to match your character's concept.
 
 ---
 
@@ -45,7 +48,7 @@ Stats are grouped into three categories and rated 0–3. Each stat serves two pu
 | **Grace** | speed, agility, the fae's ethereal movement |
 | **Mettle** | endurance, resilience, resistance to harm and compulsion |
 
-### Glamour *(social)*
+### Court *(social)*
 
 | Stat | What it covers |
 |---|---|
@@ -59,13 +62,10 @@ Stats are grouped into three categories and rated 0–3. Each stat serves two pu
 |---|---|
 | **Sight** | perception, second sight, seeing through illusions |
 | **Lore** | wisdom, ancient knowledge, riddles, the old pacts |
-| **Craft** | active magic-working, enchantment, raw fae power |
+| **Cunning** | quick thinking, adaptability, magical instinct |
 
 ---
 
-## Ability Uses
-
-There are no action points. Abilities are purchased at character creation by spending stat points — each use of an ability costs 1–3 stat points depending on the ability's tier, and you may buy up to 3 uses of any single ability. Those purchased uses are your resource for the evening. When they're gone, the ability is unavailable.
-
-*See [abilities.md](abilities.md) for the full ability list, tier costs, and the cross-court unlock rule.*
+*See [abilities.md](abilities.md) for disciplines and court powers.*
+*See [skills.md](skills.md) for the full skill list.*
 *See [conflict-resolution.md](conflict-resolution.md) for the full challenge procedure.*
