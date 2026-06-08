@@ -42,12 +42,6 @@ Stat points spent for re-tests are gone for the night. There is no refresh.
 
 ---
 
-## Tokens
-
-Tokens represent items, favors, small reserves you brought to the Revel — a gift, a debt, a relic, an old promise. Spend them for narrative effect: give a gift, call in a favor, present a relic to settle a dispute. Once spent, they're gone. A storyteller decides what a spent token can accomplish.
-
----
-
 ## Skills
 
 You have fifteen skills rated 0–5. Like stats, skills are **re-test pools** — spend 1 point from a relevant skill to demand a fresh RPS throw. Points spent are gone for the night.

@@ -1,4 +1,5 @@
 # Character Sheet — *The Queen's Revel*
+## Sidhe
 
 > Fill this out at session zero. Bring it to the Revel.
 
@@ -10,31 +11,20 @@
 
 **Character (fae) name:** _______________________________________
 
-**Rank** *(circle one)*: &nbsp;&nbsp; Sovereign &nbsp;&nbsp;|&nbsp;&nbsp; Sidhe &nbsp;&nbsp;|&nbsp;&nbsp; Sprite
+**Rank:** Sidhe
 
 **Faction / Court** *(circle one)*:
 - Court of Storms *(Aurora's)*
 - Court of Beasts *(Woodwose's)*
 - Court of Mirrors *(Mab's)*
-- The Queen's Court *(Knight)*
-- The Autumn Forest *(Oberon only)*
-
-**If Knight, your Knight title** *(circle one)*:
-- Barghest, Knight of the Sun
-- Mélusine, Knight of the Lake
-- Baobhan Sith, Knight of Song
 
 ---
 
 ## Attributes
 
-Fill in bubbles — each bubble costs 1 Attribute point. Cross off during play when you spend for a re-test. Points spent do not refresh. Max 3 per stat.
+**Attribute points to spend:** 15
 
-| Rank | Attribute Points |
-|---|---|
-| Sovereign | 20 |
-| Sidhe | 15 |
-| Sprite | 10 |
+Fill in bubbles — each bubble costs 1 Attribute point. Cross off during play when you spend for a re-test. Points spent do not refresh. Max 3 per stat.
 
 ### Iron *(physical)*
 
@@ -64,13 +54,9 @@ Fill in bubbles — each bubble costs 1 Attribute point. Cross off during play w
 
 ## Skills
 
-Fill in bubbles — each bubble costs 1 Skill point. Cross off during play when you spend for a re-test. Max 5 per skill.
+**Skill points to spend:** 20 *(template: 1×4, 2×3, 3×2, 4×1)*
 
-| Rank | Skill Points | Structured template |
-|---|---|---|
-| Sovereign | 28 | 1×4, 4×3, 4×2, 4×1 |
-| Sidhe | 20 | 1×4, 2×3, 3×2, 4×1 |
-| Sprite | 13 | 1×4, 1×3, 2×2, 2×1 |
+Fill in bubbles — each bubble costs 1 Skill point. Cross off during play when you spend for a re-test. Max 5 per skill.
 
 > Full skill descriptions: [rules/skills.md](../rules/skills.md)
 
@@ -114,11 +100,7 @@ Fill in bubbles — each bubble costs 1 Skill point. Cross off during play when 
 
 ## Powers
 
-| Rank | Power Points |
-|---|---|
-| Sovereign | 8 |
-| Sidhe | 5 |
-| Sprite | 3 |
+**Power points to spend:** 5
 
 Discipline levels cost 1 Power point each (must buy in sequence). Court ability uses cost 1 / 2 / 3 pts for Tier 1 / 2 / 3 (max 3 uses per ability). Cross-court unlock: 2 pts.
 
@@ -164,54 +146,15 @@ Discipline levels cost 1 Power point each (must buy in sequence). Court ability 
 
 **Cross-court unlock** *(2 pts)* &nbsp; □ — Ability: _________________________ from Court of _________________________
 
-### Knight signature *(granted free — does not cost Power points)*
-
-**Sun's Edge** *(pre-loaded — cannot buy more uses)* &nbsp; ○ &nbsp; *(Barghest)*
-
-**Lake's Veil** *(pre-loaded — cannot buy more uses)* &nbsp; ○ &nbsp; *(Mélusine)*
-
-**Wind's Lament** *(pre-loaded — cannot buy more uses)* &nbsp; ○ &nbsp; *(Baobhan Sith)*
-
-> *Sovereign of the Autumn Forest (Oberon): your abilities are listed on your private brief.*
-
 ---
 
 ## Wyrd Pool
 
 Spend Wyrd to activate discipline powers (1 Wyrd for most, 2 Wyrd for level 3 powers). **Refreshes fully at session start.**
 
-| Rank | Wyrd |
-|---|---|
-| Sovereign | 10 |
-| Sidhe | 7 |
-| Sprite | 5 |
-
-○ ○ ○ ○ ○ ○ ○ ○ ○ ○
+○ ○ ○ ○ ○ ○ ○
 
 *(Cross off bubbles as you spend. Re-fill at session start.)*
-
----
-
-## Tokens *(items, favors, small reserves)*
-
-How many to start with:
-- Sovereign: 3 &nbsp;|&nbsp; Sidhe: 2 &nbsp;|&nbsp; Sprite: 1
-
-Describe each token briefly (a gift, a favor owed, a relic, a debt):
-
-1. _______________________________________________
-2. _______________________________________________
-3. _______________________________________________
-
----
-
-## Public Goals
-
-These are the goals other characters might guess you have. They drive your visible play.
-
-1. _______________________________________________
-
-2. _______________________________________________
 
 ---
 
