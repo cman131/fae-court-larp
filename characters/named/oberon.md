@@ -79,8 +79,8 @@ The three behaviors most central to Oberon's persona — hosting conflicts, ente
 
 2. **Plant three rumors during Act III**, one per Sovereign, each making them distrust one of the other two. (Suggested seeds — adapt as the night requires:
    - Tell Aurora that Mab has been spreading word that her court grows feeble.
-   - Tell Spriggan that Aurora is bargaining with the Knights behind their back.
-   - Tell Mab that Spriggan plans to claim the empty throne if Morgan does not return.)
+   - Tell Woodwose that Aurora is bargaining with the Knights behind their back.
+   - Tell Mab that Woodwose plans to claim the empty throne if Morgan does not return.)
 
 3. **Provoke at least one Knight into compromising themselves** before Act IV ends — by oath broken, blood spilled in the great hall, or a public bargain with a faction.
 
@@ -88,11 +88,19 @@ The three behaviors most central to Oberon's persona — hosting conflicts, ente
 
 ---
 
+**The Barghest Setup**
+
+Three weeks before the Revel, you forged a royal command from Morgan to bring Barghest to the Autumn Forest. When she arrived, you placed a deep Geis over her perception — she experienced your forest fae as a massed human army attacking her old homeland. She fought a righteous defense. Her memory is total, vivid, and false, and she does not know it.
+
+She will raise the "human army" tonight in front of the assembled courts. Every Sovereign and Knight who knows about the Autumn Forest massacre will hear her describing events that did not happen — and she will not back down, because she cannot. Her credibility erodes with every conversation. You arranged this. Barghest discredited before your reveal is Barghest unable to lead any unified response after it.
+
+---
+
 ## Relationships and Mixer Strategy
 
 In the session-zero mixer you participate strategically — your relationships are your levers. Coordinate with the storyteller, but the recommended slotting is:
 
-- **Strong positive** → one of the three Sovereigns. This is the one you'll betray most directly during the reveal. Pick the one whose trust is most useful to obtain. (Aurora's vanity responds to gentleness; Mab's curiosity responds to a well-placed confidence. Spriggan's caution makes her the hardest target — but the highest payoff, because she is the only one whose ancient oath faintly remembers you.)
+- **Strong positive** → one of the three Sovereigns. This is the one you'll betray most directly during the reveal. Pick the one whose trust is most useful to obtain. (Aurora's vanity responds to gentleness; Mab's curiosity responds to a well-placed confidence. Woodwose's caution makes her the hardest target — but the highest payoff, because she is the only one whose ancient oath faintly remembers you.)
 - **Positive** → a second Sovereign, or one of the Knights. The one you'll need a favor from in Act III.
 - **Negative** → the third Sovereign, or Barghest. The rivalry you'll use to spark the conflict that compromises a Knight in Act IV.
 
@@ -105,5 +113,6 @@ Treat the mixer as your first plant — every kindness you forge tonight is one 
 - Bring two costume layers. The outer one — gentle, autumn-shepherd, an autumn-leaf crown, a worn cloak. The inner one — sharper, colder, regal in an old and predatory way.
 - The reveal moment: set the autumn-leaf crown at the foot of Morgan's empty chair (crush it underfoot if the mood holds you), shed the outer layer, open the secret ability sheet aloud, and deliver one short line prepared with the storyteller in advance.
 - Until the cue, you are Oberon — kindly, careful, slightly tragic, attentive to every small fae in the room. **The reveal lands harder the more people genuinely cared about your country beforehand.** Make them mourn the kindly shepherd along with the discovery of what was beneath.
+- Morgan tasked Baobhan Sith privately with watching all four sovereigns — including you — for signs of someone reaching for an ancient power threatening the throne. She is investigating everyone; she does not yet know it is you. She is attentive, charm-resistant, and has her own key to the Hawthorn Tower. If she compares notes with the right people, she could become a problem before the reveal. Keep her in the social frame, keep her entertained, and do not let her have an uninterrupted conversation with Lady Annis.
 
 *See [storyteller/vortigern-reveal.md](../../storyteller/vortigern-reveal.md) for the full reveal mechanics and cue.*

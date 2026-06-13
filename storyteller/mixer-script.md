@@ -21,11 +21,11 @@
 
 Gather everyone standing. Hold up the printed pre-set list and say something like:
 
-> *"Six of you already have one relationship slot assigned by your brief. We'll lock those first. Anyone who's been told their slot has a pre-set partner — Aurora, Mab, Spriggan, Barghest, Mélusine, Baobhan Sith — raise a hand. Good. The rest of you have all three slots free, plus your drawn Secret Mission."*
+> *"Six of you already have one relationship slot assigned by your brief. We'll lock those first. Anyone who's been told their slot has a pre-set partner — Aurora, Mab, Woodwose, Barghest, Mélusine, Baobhan Sith — raise a hand. Good. The rest of you have all three slots free, plus your drawn Secret Mission. Everyone — named characters included — should have their Secret Knowledge entry already. If you haven't received one, see me now."*
 
 Confirm the pre-sets aloud so the room knows:
 - **Aurora ↔ Mab** — negative slot, each other
-- **Spriggan → Mab** — negative slot (Mab gets locked twice; this is correct)
+- **Woodwose → Mab** — negative slot (Mab gets locked twice; this is correct)
 - **Barghest ↔ Mélusine** — strong positive slot, each other
 - **Baobhan Sith** — negative slot guided privately (talk to her before the mixer)
 
@@ -101,6 +101,7 @@ Call time at 10 minutes.
 Quick room sweep:
 - Confirm every player has three relationships filled in.
 - Confirm everyone with a drawn Secret Mission has it noted.
+- Confirm every player has their Secret Knowledge entry.
 - Confirm the pre-sets are written down on both sides of each pairing.
 
 Then:

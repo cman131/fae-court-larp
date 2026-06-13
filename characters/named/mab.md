@@ -89,7 +89,7 @@ Your rival, your once-lover, the one who knows your secrets best of anyone here 
 
 *Full storyteller reference: `storylines/court-of-mirrors/hidden-heir.md`*
 
-Titania was the first Queen. The longest-reigning. The one who held the realm before there were courts to speak of. When she fell — through an unfortunate accident you prefer not to discuss — you gathered what remained and held it together. That was your claim to the throne: not blood, not conquest, but competence.
+Titania was the first Queen. The longest-reigning. The one who held the realm before there were courts to speak of. When she fell — she gave up her immortality for a human, and died of old age at his side, an "unfortunate accident" you prefer not to discuss in those terms — you gathered what remained and held it together. That was your claim to the throne: not blood, not conquest, but competence.
 
 What you have only recently confirmed is that Titania left a line behind. Hidden, scattered, perhaps not even aware of itself. A descendant. A bloodline claim older than Morgan's throne, older than your reign, older than every court compact in force tonight.
 

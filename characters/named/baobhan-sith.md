@@ -27,7 +27,7 @@ Strikingly beautiful, music-coded — instruments, jewelry of bells or strings, 
 
 Morgan found you before you had a name for what you were — before you had a court, before you understood what a Knight was or what it cost. She made you one of three. You have served her more as a daughter than a soldier, and she treated you more as a daughter than a subordinate, though neither of you would have said it aloud.
 
-She gave you a key to the Hawthorn Tower quietly, months ago, when she began to suspect something was wrong. She did not tell you what. She did not need to.
+Three months before the Revel, she called you to a private audience. She had been conducting her own investigation — quietly, outside any formal proceeding — into evidence that one of the sovereign powers attending this Revel had been reaching for something old enough to be dangerous. Not political maneuvering. Not a grudge or a debt. Something that predated the current court order and sat outside its rules. An ancient power, deliberately sought. She did not know who. She had narrowed it to the four: Aurora, Woodwose, Mab, and Oberon. She gave you the key to the Hawthorn Tower at that same meeting. *"If I cannot answer this myself,"* she said, *"watch them. All of them."*
 
 ---
 
@@ -64,9 +64,11 @@ Spend your 5 Power points on disciplines and court ability uses. As a Knight, yo
 
 ## Secret Goal
 
-You are Morgan's private informant. Three months ago, before she sealed herself in the Hawthorn Tower, she told you in private: *"Watch the King."* You have watched. You have seen things you cannot yet make sense of. Tonight you decide whether to act on what you've seen, and whether to trust your fellow Knights with the burden before Oberon makes the choice for you.
+You are Morgan's private investigator. She laid out what she had found: evidence of someone reaching for a power older than the current courts, old enough to threaten the throne from outside every compact and rule that holds fae Britain together. She did not know who. She gave you four names — the four sovereigns who would be at this Revel — and told you to watch all of them.
 
-You have the key. You have not opened the door. You are not sure you want to know what is on the other side.
+You have. Aurora's generosity hides a systematic extraction that has been building for decades. Woodwose carries something old and unresolved in her bones, an oath sworn to someone she cannot name. Mab has never stopped being a queen and has been quietly positioning herself for a moment of crisis. And Oberon — gentle, grieving Oberon of the dying forest — watches everything and says very little, which is the habit of either a shepherd or a predator.
+
+You have the key. You have not opened the door. You suspect that whatever Morgan saw clearly enough to retreat from is waiting on the other side — and that by the end of tonight, you will have to decide whether you know enough to use it.
 
 ---
 

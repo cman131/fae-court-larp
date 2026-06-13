@@ -25,7 +25,7 @@ This is a suggested distribution for a 12-player game. Scale up or down by addin
 | Aurora | Sovereign | Storms | Hosts the revel's music; pursuing a long-running feud with Mab |
 | Storm Sidhe (1–2) | Sidhe | Storms | Aurora's chosen retainers |
 | Storm Sprite | Sprite | Storms | Messenger / dancer |
-| Spriggan | Sovereign | Beasts | Owed an ancient debt by another sovereign |
+| Woodwose | Sovereign | Beasts | Owed an ancient debt by another sovereign |
 | Beast Sidhe (1–2) | Sidhe | Beasts | One should be a warrior, one a shaman |
 | Beast Sprite | Sprite | Beasts | Servant / hunter |
 | Mab | Sovereign | Mirrors | Knows the most secrets in the room; owes the most debts |

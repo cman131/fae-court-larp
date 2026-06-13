@@ -12,8 +12,9 @@ Operational notes for running the event. Keep this with the storyteller packet.
 
 - **Cross-plot interactions you can lean on:**
   - The Marriage Pact (Aurora) and The Hidden Heir (Mab) intersect if Mab's chosen heir is in Aurora's court. Consider this.
-  - The Old Debt (Spriggan) gives Oberon an obvious lever during his Act III plant phase — tell Spriggan privately that Mab plans to escape the debt entirely, even if it isn't true.
+  - The Old Debt (Woodwose) gives Oberon an obvious lever during his Act III plant phase — tell Woodwose privately that Mab plans to escape the debt entirely, even if it isn't true.
   - Mélusine's secret goal (three offers) is one of the most flexible pieces in the room. Use it to drive Acts III–IV pressure.
+- Baobhan Sith's investigation of the four sovereigns crosses naturally with Mab's hidden heir plot (both involve pre-court ancient power), Woodwose's ancient oath (she genuinely carries a preternatural connection that Baobhan will notice), and Oberon's cultivation of Lady Annis (Annis is a thread connecting the ancient power frame to Titania's bloodline — if Baobhan and Mab compare notes in Act III, Oberon is less innocent than he appears).
 
 - **Re-draws:** If a Sprite or Sidhe draws a Secret Mission that the storyteller knows will collide ruinously with a Sovereign plot, allow a re-draw quietly. Better re-draws than dead plots.
 

@@ -3,7 +3,7 @@
 ## Contents
 - [Design Principle](#design-principle)
 - [Aurora — Court of Storms](#aurora--court-of-storms)
-- [Spriggan — Court of Beasts](#spriggan--court-of-beasts)
+- [Woodwose — Court of Beasts](#woodwose--court-of-beasts)
 - [Mab — Court of Mirrors](#mab--court-of-mirrors)
 - [Barghest — Knight of the Sun](#barghest--knight-of-the-sun)
 
@@ -28,7 +28,7 @@ The examples below are drawn from the named characters. Full assigned goals are 
 
 ---
 
-## Spriggan — Court of Beasts
+## Woodwose — Court of Beasts
 
 *See full brief: [characters/named/woodwose.md](../characters/named/woodwose.md)*
 
@@ -44,7 +44,7 @@ The examples below are drawn from the named characters. Full assigned goals are 
 *See full brief: [characters/named/mab.md](../characters/named/mab.md)*
 
 - *Public:* Collect three new secrets you didn't have at the start of the night.
-- *Public:* Avoid paying Spriggan back.
+- *Public:* Avoid paying Woodwose back.
 - *Secret:* You already know Oberon is hiding something. You don't know what.
 - *Secret:* You have an informant in another court. Reveal them — to your benefit — at the right moment.
 
@@ -56,5 +56,16 @@ The examples below are drawn from the named characters. Full assigned goals are 
 
 - *Public:* Maintain the Queen's peace until dawn.
 - *Public:* Resolve the grievance between Storms and Mirrors before blood is spilled.
-- *Secret:* You suspect Oberon. You have no proof.
+- *Public:* Raise the alarm about the human army incursion into the Autumn lands and build a court response.
 - *Secret:* If forced to choose between Queen and oath-brother, you have already chosen wrong once and will choose wrong again.
+
+---
+
+## Baobhan Sith — Knight of Song
+
+*See full brief: [characters/named/baobhan-sith.md](../characters/named/baobhan-sith.md)*
+
+- *Public:* Identify any guest acting in bad faith and report it to Barghest.
+- *Public:* Entertain the Revel — sing at least once in public, dance with at least three guests.
+- *Secret:* Morgan told you that one of the four sovereigns is a traitor harnessing ancient power. Investigate all of them before the night ends.
+- *Secret:* You have the key to the Hawthorn Tower. You have not opened the door. You will.

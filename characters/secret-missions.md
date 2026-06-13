@@ -169,7 +169,7 @@ You were hired anonymously three months ago to attend this Revel and ensure the 
 
 You have always felt different — more attuned to the old ways than those around you. When you use Glamour under pressure, silver surfaces in it unbidden, no matter how you try to suppress it. You feel hospitality rules bending before you can name why. And every so often, you dream of a silver crown — not yours exactly, but familiar.
 
-Tonight, more than ever, something feels different about you and about this Revel. You are here as [Name] of [Court] — but you have wondered, quietly, whether that is the whole story.
+You also know, because you cannot entirely hide it from yourself, that you are not entirely fae. There is mortal blood in your line — how far back, you have never been certain, but it is there, and it shows in small ways you have learned to manage. No one here knows. You intend to keep it that way. Whatever this Revel brings, the last thing you need is someone looking closely.
 
 If someone approaches you tonight claiming to know the truth of your lineage, they may not be lying. What you do with that knowledge is yours to decide.
 

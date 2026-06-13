@@ -6,9 +6,11 @@
 
 ## Overview
 
-Titania was the first and longest-reigning Queen of Fae Britain — older than the courts as they exist now, older than the current throne. After an unfortunate accident befell her (the details of which Mab does not discuss), Mab gathered the scattered courts and held the realm together for decades. She ruled quietly, invisibly, until Morgan arrived with three self-made Knights and the backing of enough of the fae to make fighting inadvisable.
+Titania was the first and longest-reigning Queen of Fae Britain — older than the courts as they exist now, older than the current throne. In the last decades of her reign she took a human lover, and eventually made a choice that no fae queen had made before or since: she surrendered her immortality to remain with him, and died of mortal age at his side. Mab, who knew the truth, found "an unfortunate accident" easier to say in polite company — it did not invite the questions the truth invited. After Titania's death, Mab gathered the scattered courts and held the realm together for decades, ruling quietly and invisibly until Morgan arrived with three self-made Knights and enough backing to make resistance inadvisable.
 
 What no one knew — what Mab has only recently confirmed — is that Titania left a line behind. Hidden, scattered, perhaps not even aware of itself. A descendant of the first queen. A bloodline claim that predates Morgan's throne, predates Mab's reign, predates every court compact currently in force.
+
+The heir carries mortal blood. Titania's child by her human lover was half mortal, and that line has thinned but not vanished in the generations since. The heir at this Revel knows they are not entirely fae. They have been concealing it for as long as they can remember.
 
 That heir is here. At this Revel. Tonight.
 
@@ -44,9 +46,9 @@ The shard is now in Oberon's possession. Mab does not know this yet.
 
 ## Beat 1 — The Stolen Shard (Act I: Arrivals)
 
-**The task:** Mab examines the hair, or has a Mirror Sidhe do it. With Sight or Lore, the Beast Court origin is identifiable — the hair's quality is distinct. This points the investigation toward Spriggan's court.
+**The task:** Mab examines the hair, or has a Mirror Sidhe do it. With Sight or Lore, the Beast Court origin is identifiable — the hair's quality is distinct. This points the investigation toward Woodwose's court.
 
-**The complication:** Mab has a standing negative relationship with Spriggan (the ancient blood debt). She cannot simply approach him and ask questions without triggering a confrontation she doesn't want in Act I. She must work through her court or find indirect approaches into the Beasts.
+**The complication:** Mab has a standing negative relationship with Woodwose (the ancient blood debt). She cannot simply approach him and ask questions without triggering a confrontation she doesn't want in Act I. She must work through her court or find indirect approaches into the Beasts.
 
 **What Mab is doing:** Quietly cataloguing arrivals. Which Beast Court members are present? Is anyone absent? Does anyone seem nervous or avoidant? Her Mirror Sidhe are positioned to watch and report.
 
@@ -62,7 +64,7 @@ The shard is now in Oberon's possession. Mab does not know this yet.
 
 Information to extract: Tannis was in the capital. Tannis is not at the Revel. Tannis is staying at a specific inn or guesthouse nearby (the storyteller should pick one consistent with the venue).
 
-**Complication — Spriggan:** If Spriggan notices Mirror fae paying particular attention to his court, he may confront Mab about the ancient blood debt. This is its own scene and can be productive drama — but it forces Mab to manage two problems simultaneously. The confrontation can also be a cover: if Mab is publicly sparring with Spriggan over the debt, no one thinks she's also quietly learning where Tannis sleeps.
+**Complication — Woodwose:** If Woodwose notices Mirror fae paying particular attention to her court, she may confront Mab about the ancient blood debt. This is its own scene and can be productive drama — but it forces Mab to manage two problems simultaneously. The confrontation can also be a cover: if Mab is publicly sparring with Woodwose over the debt, no one thinks she's also quietly learning where Tannis sleeps.
 
 **Beat outcome:** Mab has Tannis's location and the growing suspicion that he was told to do this. A Sprite his size doesn't steal from a Sovereign on his own initiative.
 
@@ -108,6 +110,7 @@ She does not know the heir exists. She simply knows what Titania's bloodline loo
 - They have an instinctive sensitivity to hospitality law. They feel it bending before they can name why — an almost physical discomfort when oaths are bent or hospitality abused.
 - They tend toward Sight even when their court tradition doesn't emphasize it.
 - Almost as an afterthought, with the distant tone of someone remembering something very small: *"Her children always woke confused about whose crown it was."* They dream of a silver crown — not theirs exactly, but familiar.
+- If asked about Titania's personal life — her household, her final years, whether she had companions outside the court — Annis grows briefly quiet, then warm. *"She loved him very much. A quiet man. He never understood what she was giving up. I don't think she let him know."* Annis does not volunteer this; it requires a question, and the right tone. She does not consider it shameful. She simply doesn't think about it often anymore.
 
 **Beat outcome:** Mab has the bloodline markers. She can survey the assembled guests with new eyes. The shard can confirm; the markers let her build a shortlist without it.
 
@@ -171,6 +174,8 @@ Ancient Sprite. Served in Titania's personal household for two centuries. Curren
 
 **Personality:** Old and occasionally scattered in her references, but brilliant when focused. Warm, genuinely fond of being asked about the past. Speaks of dead queens and dead children as if they just stepped out of the room. Not suspicious. Not dangerous. Not connected to any plot of her own.
 
+She knew Titania's human lover. She was present in the household during those final years. She does not know the heir exists — she is simply a living archive of what Titania's life actually looked like, including the part no one talks about.
+
 **Role:** Source of bloodline markers in Beat 4. She does not know the heir exists. She should not learn why Mab was asking — if she does, she'll mention it to Oberon with complete innocence.
 
 **Running Annis:** She can be run by the storyteller or assigned to a trusted player as an NPC role. She should be present in Oberon's social orbit during Acts I–II, accessible but requiring effort to reach in Act III.
@@ -221,6 +226,6 @@ You were hired anonymously three months ago to attend this Revel and ensure the 
 
 You have always felt different — more attuned to the old ways than those around you. When you use Glamour under pressure, silver surfaces in it unbidden, no matter how you try to suppress it. You feel hospitality rules bending before you can name why. And every so often, you dream of a silver crown — not yours exactly, but familiar.
 
-Tonight, more than ever, something feels different about you and about this Revel. You are here as [Name] of [Court] — but you have wondered, quietly, whether that is the whole story.
+You also know, because you cannot entirely hide it from yourself, that you are not entirely fae. There is mortal blood in your line — how far back, you have never been certain, but it is there, and it shows in small ways you have learned to manage. No one here knows. You intend to keep it that way. Whatever this Revel brings, the last thing you need is someone looking closely.
 
 If someone approaches you tonight claiming to know the truth of your lineage, they may not be lying. What you do with that knowledge is yours to decide.

@@ -20,7 +20,7 @@
 
 ## Court of Beasts
 
-**Spriggan's domain.** The deep wilds and mountain roots of the south. Spriggan is the oldest sovereign present; her clan remembers grievances measured in centuries. They are blunt, dangerous, magically potent, and visibly inhuman — horns, claws, fangs worn openly.
+**Woodwose's domain.** The deep wilds and mountain roots of the south. Woodwose is the oldest sovereign present; her clan remembers grievances measured in centuries. They are blunt, dangerous, magically potent, and visibly inhuman — horns, claws, fangs worn openly.
 
 - *Themes:* strength, ancestry, raw magic, the hunt, the long memory
 

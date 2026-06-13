@@ -24,7 +24,7 @@ Aurora wants a voluntary public contribution from each rival Sovereign court wov
 
 **Mab (hard target):** Active enemy with a standing negative relationship. Aurora cannot approach this directly. Her court must find the angle — what does Mab want to be seen doing tonight? What tribute could be framed as Mab's idea rather than Aurora's ask?
 
-**Spriggan:** A different kind of difficulty. Spriggan's pride is ancient and her court keeps its own counsel. A direct request reads as condescension. The approach must feel like recognition of the Beasts' standing, not a favor being extracted.
+**Woodwose:** A different kind of difficulty. Woodwose's pride is ancient and her court keeps its own counsel. A direct request reads as condescension. The approach must feel like recognition of the Beasts' standing, not a favor being extracted.
 
 ### Piece 2 — A Knight's Blessing
 

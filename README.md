@@ -41,7 +41,7 @@ Each file below is a private brief for one pre-cast role. **Give each player onl
 
 ## For Court Members (Unnamed)
 
-Court members choose their own fae name, allocate their stats, pick abilities, and draw one Secret Mission card at session zero.
+Court members choose their own fae name, allocate their stats, pick abilities, and draw one Secret Mission card and one Secret Knowledge entry at session zero.
 
 | Court | Sidhe | Sprite |
 |---|---|---|
@@ -50,6 +50,7 @@ Court members choose their own fae name, allocate their stats, pick abilities, a
 | Mirrors | [mirror-sidhe.md](characters/templates/mirror-sidhe.md) | [mirror-sprite.md](characters/templates/mirror-sprite.md) |
 
 - [Secret Mission Cards](characters/secret-missions.md) — 25 cards for Sidhe and Sprites to draw from
+- [Secret Knowledge](characters/secret-knowledge.md) — one entry per player, distributed to all attendees including named characters at session zero
 
 ---
 

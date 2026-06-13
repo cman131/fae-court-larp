@@ -8,7 +8,7 @@
 
 Three weeks before the Revel, Barghest invaded the Autumn Forest — the bleak country sheltering the weakest, most persecuted fae of Britain — and slaughtered numerous fae there. Many at the Revel know it happened. No one outside of Oberon knows why. Oberon, in his guise as the Forest's grieving shepherd, reached out to Woodwose before the Revel and asked for justice. Woodwose arrives with two goals: understand what happened, and answer it through formal challenge.
 
-**The hidden truth:** Oberon forged a royal command from Morgan ordering Barghest to clear the Autumn Forest — using the same method he used to forge the communications that sent the Knights to run the Revel in Morgan's "absence." Barghest followed the order. She does not yet know it was false. Woodwose, in seeking justice for the Forest, is pursuing exactly the outcome Vortigern wanted: Barghest weakened, discredited, or removed before his reveal.
+**The hidden truth:** Oberon ran two deceptions in sequence. First, he forged a royal command from Morgan ordering Barghest to the Autumn Forest — using the same method he used to forge the communications that sent the Knights to run the Revel in Morgan's "absence." Second, once Barghest was in position, he laid a deep Geis over her perception: she experienced the forest fae as a massed human army assaulting her old homeland. She fought what she believed was a righteous defense. Her memory of the night is vivid, total, and entirely false. She believes a human incursion happened and intends to raise it tonight. Woodwose, in seeking justice for the Forest, is pursuing exactly the outcome Vortigern wanted: Barghest weakened, discredited, or removed before his reveal.
 
 ---
 
@@ -21,7 +21,7 @@ Woodwose's court works the Revel for information throughout Acts I–III. The qu
 Word of the Forest massacre spreads through the Revel's early hours as guests discuss it. Accounts conflict:
 - Some Beast Court fae say Barghest seemed distant, almost compelled — not angry, not deliberate, as though she was moving through a dream.
 - Some Queen's Court loyalists insist she had orders. It would not have happened otherwise.
-- Barghest herself, if pressed, says only that she acted on a command. She does not elaborate.
+- Barghest herself does not stay quiet about it. She actively disputes the framing — she says she fought a human army that was assaulting fae lands, that the attack was unprovoked, that she is trying to find out who sent the humans and when they might return. She is not evasive; she is alarmed. Her account contradicts everything the witnesses saw — but she is not lying. She genuinely does not know the memory is false.
 
 **Beat outcome:** Woodwose enters Act II knowing there was a written order, and that Barghest followed it without apparent personal motive.
 
@@ -38,6 +38,8 @@ Woodwose's court must find the witness and earn their trust — through protecti
 With the witness's account and Lore or Sight, Woodwose or his court can examine what they know about the order and compare it to what is known about Morgan's Revel communications — the written commands that sent the Knights to run the Revel in her absence. The pattern is the same: the same courier, the same phrasing, the same seal used outside of any normal royal channel.
 
 Both orders came from the same hand. Neither came from Morgan.
+
+The second question — why does Barghest remember an event that did not happen — points to the same hand through a different mechanism. Geis at its second level can rewrite memory entirely. A character with strong Sight or Lore, connecting both facts, can conclude: the same person who forged the letter also rewrote what Barghest saw when she arrived.
 
 This points to Oberon — the only figure at this Revel who has been managing Morgan's apparent communications and has reason to manipulate both Barghest and the Knights.
 
@@ -96,7 +98,7 @@ The challenge chain puts Woodwose in direct conflict with Mélusine — Aurora's
 - Designate a pool Sidhe or Sprite as the Forest massacre survivor (Thread 1, Act II). Brief them privately on what they witnessed. They do not know who forged the order.
 - Coordinate with Mab's player on her terms for Step 4. The task should be substantive.
 - Brief Mélusine's player that the Step 2 bout with Woodwose is emotionally significant and should be played with weight.
-- Brief Barghest's player that the investigation will eventually point to a forged order — she followed it in good faith and does not yet know it was false. Her reaction to learning this is hers to decide.
+- Brief Barghest's player that her memory of the night is false — Oberon placed a deep Geis over her perception, replacing what she actually saw (fae) with a human army attacking her old homeland. The memory feels absolutely real; she does not doubt it. The investigation will surface both the forged order and the Geis across Acts I–III. She will need to absorb not only that she followed a false command, but that she cannot trust her own recollection of what happened when she got there. How she carries that is hers to play.
 
 **Hunger management:** If the cursed hunger is a mechanic at your table, the challenge chain serves as Woodwose's pressure valve — each physical challenge burns it back temporarily. If the chain stalls (Mab's task takes too long, a step goes unresolved), the hunger builds. This can be a quiet pressure his court is managing without broadcasting.
 

@@ -16,6 +16,7 @@
 - [ ] Cast Oberon privately, 1+ week ahead. Brief them on the secret sheet and the three plants.
 - [ ] Write character sheets: stats, abilities, public goals, secret goals. One page per character.
 - [ ] Print and cut the Secret Mission cards. One hat for the unnamed court members to draw from.
+- [ ] Print and cut the Secret Knowledge entries (see `characters/secret-knowledge.md`). Distribute one per player before the mixer begins.
 - [ ] Plan the Relationship Mixer (see below). Reserve 30 minutes between briefing and Act I. Identify a storyteller to monitor pick-distribution during phase 3.
 - [ ] Print and distribute sheets at least 3 days before the event so players have time to think.
 - [ ] Prepare the play space with at least three distinct "rooms" (great hall, private chamber, garden/balcony) for Act III intrigue.
@@ -37,7 +38,7 @@ Before Act I begins, players need both a sense of who they are and a sense of wh
 
 Group players physically by court:
 - Storms in one corner with Aurora
-- Beasts in another with Spriggan
+- Beasts in another with Woodwose
 - Mirrors in a third with Mab
 - The Knights together (Barghest, Mélusine, Baobhan Sith) plus their personal names
 
@@ -70,7 +71,7 @@ When you choose someone, walk over to them and propose the slot. The other playe
 
 ### Rules of the Mixer
 
-- **Pre-set slots take priority.** Named characters arrive at the mixer with one or more slots already assigned by plot (Aurora and Mab fill each other's negative, Spriggan also fills Mab as her negative, Barghest and Mélusine fill each other's strong-positive, etc.). Those slots lock first. Fill remaining slots freely.
+- **Pre-set slots take priority.** Named characters arrive at the mixer with one or more slots already assigned by plot (Aurora and Mab fill each other's negative, Woodwose also fills Mab as her negative, Barghest and Mélusine fill each other's strong-positive, etc.). Those slots lock first. Fill remaining slots freely.
 - **A player may be chosen by at most three others total.** This keeps Sovereigns and Knights from saturating every relationship card. If a player is already at three picks, pick someone else.
 - **A player must be chosen by at least one other.** No one stands relationship-less. The storyteller monitors and nudges where needed.
 - **Asymmetric relationships are allowed only by mutual agreement.** "I trust them; they're indifferent to me" can be powerful — but both players must consent.
@@ -79,6 +80,7 @@ When you choose someone, walk over to them and propose the slot. The other playe
 
 By the end of phase 3, every player has:
 - An assigned Secret Goal (named characters) or a drawn Secret Mission (court members)
+- A Secret Knowledge entry (all players, including named characters)
 - Three relationships, slotted as strong-positive / positive / negative
 - A clear sense of who they know and how
 - Five to ten minutes of in-character conversation already under their belt with most of the room

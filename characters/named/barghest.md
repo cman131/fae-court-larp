@@ -28,7 +28,9 @@ Tall, sun-coloured, in formal warrior dress or polished armor. Carry a visible b
 
 You were Court of Beasts before you were a Knight — one of Woodwose's finest Sidhe, trained under his name, fighting under his standard. Morgan chose you. Woodwose was not chosen. Neither of you has ever spoken of it directly.
 
-Three weeks before the Revel, you swept through the Autumn Forest on what appeared to be a royal command — a sealed letter bearing Morgan's crest, delivered through proper channels. You followed the order. The fae there were sheltering weak and outcast; some were killed. You have not examined the command closely since. You assumed it was political. You did not ask.
+Three weeks before the Revel, a sealed letter reached you — Morgan's crest, proper channels, unmistakably royal. The command sent you to the edge of the Autumn country. What you found when you arrived was unmistakable: a massed human force pressing into fae lands, near the borders of your old home. You fought. The defense was righteous. The attack broke; the humans scattered or died. You have carried it without celebration, because the question no one has answered is why they came at all, and whether they will come again.
+
+You are confident in what you saw.
 
 ---
 
@@ -59,12 +61,13 @@ Spend your 5 Power points on disciplines and court ability uses. As a Knight, yo
 
 1. Maintain the Queen's peace until dawn. Hospitality is binding by her standing word, whether or not she is here.
 2. If any open grievance is raised between courts, resolve it before blood is spilled. You have the authority to compel a settlement. Use it sparingly — once you compel a Sovereign, you cannot do it twice in one night.
+3. Three weeks ago, a human army pressed into fae lands near the Autumn country. You drove them back. No court has formally acknowledged it. Raise the matter tonight — find out whether anyone else knows of it, and build consensus for a response before more fae are killed.
 
 ---
 
 ## Secret Goal
 
-You suspect Oberon. You have no proof, only a feeling you've been carrying since the third time you saw him this season — something in the way he greets Morgan. You may not know it consciously, but you have already begun watching him. Find proof tonight, or decide whether a Knight of the Sun may act on suspicion alone.
+You chose once to follow an order without asking who gave it. That choice put lives in front of your blade. You have not let yourself examine it — you assumed it was political, you assumed the command was real, you assumed the Queen's crest meant the Queen's will. Knights who ask too many questions of their sovereign are poor knights. You know this. You have lived by it. Decide tonight whether you still believe it.
 
 ---
 
@@ -81,3 +84,5 @@ Your oath-sister. You would die for her without hesitation. During the mixer, wa
 ## Stagecraft Notes
 
 In Act II, you give the welcome speech in Morgan's name. Prepare a few lines in advance — the welcome should be warm, formal, and end with a brief moment of silence "for the seat that remains empty tonight." That silence is the tone the whole evening lives in.
+
+If other characters describe the Autumn Forest incident differently — claiming no human army was present, or that you were fighting fae — do not accept it immediately. Your memory is vivid and complete. You *know* what you saw. Let the certainty hold as long as it can; the moment it breaks is yours to play.
