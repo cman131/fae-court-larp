@@ -18,6 +18,7 @@ Every year at summer's end, the rulers of Britain's three great courts present t
 
 These files are safe to share with all players before session zero.
 
+- [Player Primer](players/primer.md) — the world, the courts, and tonight's situation; read this before session zero
 - [How to Play](players/how-to-play.md) — stats, tokens, conflict resolution, abilities, hospitality, the reveal
 - [Character Sheet](players/character-sheet.md) — fillable form; print one per player
 
