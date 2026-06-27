@@ -76,7 +76,7 @@ Background reading for the setting and mechanics.
 - [Concept and World](world/concept.md) — the premise, Morgan's withdrawal, tonight's situation
 - [The Courts](world/courts.md) — all five factions described
 - [Rank and Stats](rules/rank-and-stats.md) — Sovereign/Sidhe/Sprite tiers, point allocations, nine stats in three categories (Iron/Court/Wyrd)
-- [Abilities](rules/abilities.md) — five universal disciplines (Imbas, Geis, Veil, Awen, The Green) plus per-court abilities, tier costs, and purchasing rules
+- [Abilities](rules/abilities.md) — nine universal disciplines (Imbas, Geis, Veil, Awen, The Green, Fleetness, Ironhide, Sinew, Wyldform) and purchasing rules
 - [Named Character Abilities](rules/named-abilities.md) — Knight signatures and Oberon's ability sheets (storyteller reference)
 - [Conflict Resolution](rules/conflict-resolution.md) — RPS throw, stat tie-breakers, re-test procedure
 - [Hospitality Rules](rules/hospitality.md) — what is and isn't permitted until Act IV

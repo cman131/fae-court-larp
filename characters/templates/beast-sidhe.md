@@ -31,10 +31,12 @@ Beastcraft 4, Wildcraft 3, Bladesmanship 3, Brawl 2, Faerie Lore 2, Awareness 2,
 *(5 Power points — suggested allocation)*
 
 - **The Green** level 1 — 1 pt *(passive animal sense + call animals)*
-- **Beast Form** use — 3 pts *(turn a lost physical challenge into a tie)*
-- **Earth-Sense** use — 1 pt *(detect lies about locations)*
+- **The Green** level 2 — 1 pt *(ride animal senses; rouse primal beast)*
+- **Wyldform** level 1 — 1 pt *(beast eyes, claws or fangs)*
+- **Sinew** level 1 — 1 pt *(win Might tie-breakers; win one Might challenge without RPS)*
+- **Ironhide** level 1 — 1 pt *(win Mettle tie-breakers; turn one Physical loss into a tie)*
 
-Or take **The Green** level 2 (2 pts) + **Beast Form** use (3 pts) for deeper wild-speaking.
+Or take **The Green** level 2 (2 pts) + **Wyldform** level 2 (2 pts) + **Sinew** level 1 (1 pt) for deeper shapeshifting.
 
 Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 

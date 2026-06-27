@@ -101,11 +101,9 @@
 
 **Imbas** *(prophetic sight)* &nbsp; — Level 2
 
-**Awen** *(sovereign magnetism)* &nbsp; — Level 1
+**Awen** *(sovereign magnetism)* &nbsp; — Level 2
 
-### Court abilities *(cross-court: Storms)*
-
-**Lure of the Revel** *(Tier 1)* &nbsp; ○ ○
+**Veil** *(the hidden glamour)* &nbsp; — Level 1
 
 ### Knight signature *(pre-loaded — cannot buy more uses)*
 

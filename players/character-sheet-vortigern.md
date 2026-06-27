@@ -103,15 +103,13 @@
 
 ### Disciplines
 
-**Imbas** *(prophetic sight)* &nbsp; — Level 1
+**Imbas** *(prophetic sight)* &nbsp; — Level 2
 
-**Geis** *(the binding)* &nbsp; — Level 2
+**Geis** *(the binding)* &nbsp; — Level 3
 
 **Awen** *(sovereign magnetism)* &nbsp; — Level 1
 
-### Court abilities *(cross-court unlock — consult your private brief)*
-
-**Tier 1 ability** &nbsp; ○ ○
+**Veil** *(the hidden glamour)* &nbsp; — Level 2
 
 ---
 

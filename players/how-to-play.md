@@ -54,15 +54,13 @@ Skills are purchased at character creation using your Skill point budget (separa
 
 ### Disciplines
 
-You may invest Power points in any of the five universal disciplines (Imbas, Geis, Veil, Awen, The Green). Disciplines have three levels — buy them in sequence at 1 Power point per level. Higher levels grant additional powers; you keep all lower-level powers too.
+You may invest Power points in any of the twelve universal disciplines — available to every character regardless of court. Disciplines have three levels; buy them in sequence at 1 Power point per level. Higher levels grant additional powers; you keep all lower-level powers too.
+
+The nine disciplines are: **Imbas** (prophetic sight), **Geis** (the binding), **Veil** (the hidden glamour), **Awen** (sovereign magnetism), **The Green** (the wild bond), **Fleetness** (fae quickness), **Ironhide** (iron skin), **Sinew** (giant's strength), **Wyldform** (the beast within).
 
 ### Wyrd pool
 
 Each character has a Wyrd pool (Sovereign 10, Sidhe 7, Sprite 5). Spend 1 Wyrd to activate most discipline powers, or 2 Wyrd for the most powerful level 3 effects. Your Wyrd pool **refreshes fully at the start of each session**.
-
-### Court abilities
-
-Court abilities work as before — purchased as individual uses (max 3 per ability) at a Power point cost equal to their tier. Your court's pool is available to you; cross-court abilities cost 2 Power points to unlock.
 
 Full descriptions: [rules/abilities.md](../rules/abilities.md)
 

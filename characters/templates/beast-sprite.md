@@ -31,8 +31,8 @@ Beastcraft 4, Wildcraft 3, Brawl 2, Awareness 2, Intimidation 1, Faerie Lore 1
 *(3 Power points — suggested allocation)*
 
 - **The Green** level 1 — 1 pt
-- **Earth-Sense** use — 1 pt
-- **Earth-Sense** use — 1 pt
+- **Sinew** level 1 — 1 pt *(win Might tie-breakers; win one Might challenge without RPS)*
+- **Wyldform** level 1 — 1 pt *(beast eyes, claws or fangs)*
 
 Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 

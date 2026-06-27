@@ -41,14 +41,17 @@ Faerie Lore 4, Court Politics 3, Fae Law 3, Investigation 3, Empathy 3, Heraldry
 
 ## Powers: Public Sheet
 
-Build your Oberon persona using the standard character sheet. Spend your 8 Power points on discipline levels and court ability uses (cross-court unlock costs 2 pts). You have no unique pre-assigned abilities before the reveal; play Oberon's manner and behaviors through roleplay and whatever you purchase.
+Build your Oberon persona using the standard character sheet. Spend your 8 Power points on discipline levels. You have no unique pre-assigned abilities before the reveal; play Oberon's manner and behaviors through roleplay and whatever you purchase.
 
 **Suggested powers (8 pts):**
-- **Geis** level 2 — 2 pts *(commands + memory rewriting)*
+- **Geis** level 1 — 1 pt *(command or post-hypnotic instruction)*
+- **Geis** level 2 — 1 pt *(erase or rewrite a memory)*
+- **Geis** level 3 — 1 pt *(lay a binding geis for the rest of the session)*
 - **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
+- **Imbas** level 2 — 1 pt *(touch impressions; surface thought-reading)*
 - **Awen** level 1 — 1 pt *(project awe or dread)*
-- **Cross-court unlock** — 2 pts *(choose any one court pool)*
-- 2 pts in Tier 1 court ability uses of your chosen court
+- **Veil** level 1 — 1 pt *(stationary invisibility free; 1 Wyrd to move while hidden)*
+- **Veil** level 2 — 1 pt *(disguise as another; wipe a memory)*
 
 The three behaviors most central to Oberon's persona — hosting conflicts, entering private scenes, deflecting questions — are not mechanically distinct. Use Presence, Guile, and Lore challenges as the situation demands.
 

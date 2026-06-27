@@ -4,23 +4,11 @@ Abilities let you bend the rules in ways ordinary stat challenges cannot.
 
 ## Powers overview
 
-Characters have two kinds of powers: **disciplines** (universal — available to all) and **court abilities** (specific to your court).
+Characters have nine **disciplines** — all universal, available to any character regardless of court.
 
-**Buying powers at character creation.** Spend Power points on discipline levels and court ability uses. See [rank-and-stats.md](rank-and-stats.md) for your Power point budget by rank.
+**Buying powers at character creation.** Spend Power points on discipline levels. See [rank-and-stats.md](rank-and-stats.md) for your Power point budget by rank.
 
 **Discipline levels.** Each discipline has three levels. You must buy them in sequence (level 2 requires level 1). Cost: 1 Power point per level. Higher levels do not replace lower — you keep all powers you've unlocked.
-
-**Court ability uses.** Court abilities use the "buy uses" model. Each use costs Power points equal to the ability's tier. Maximum 3 uses per ability.
-
-| Tier | Cost per use |
-|---|---|
-| Tier 1 | 1 Power point |
-| Tier 2 | 2 Power points |
-| Tier 3 | 3 Power points |
-
-**Which court pool you can buy from.** You may buy from your court's pool. Members of the Queen's Court (Knights) buy from any one of the three courts' pools in addition to disciplines.
-
-**Cross-court unlock.** Spend 2 Power points to unlock access to one ability from a court you don't belong to. After unlocking, buy uses at the normal tier cost, still capped at 3.
 
 **The Wyrd pool.** Each character has a Wyrd pool (fixed by rank — see [rank-and-stats.md](rank-and-stats.md)). Spend Wyrd to activate non-passive discipline powers. The Wyrd pool refreshes fully at the start of each session.
 
@@ -31,21 +19,15 @@ Characters have two kinds of powers: **disciplines** (universal — available to
 ---
 
 ## Contents
-- [Disciplines (Universal)](#disciplines-universal)
-  - [Imbas](#imbas)
-  - [Geis](#geis)
-  - [Veil](#veil)
-  - [Awen](#awen)
-  - [The Green](#the-green)
-- [Court of Storms](#court-of-storms)
-- [Court of Beasts](#court-of-beasts)
-- [Court of Mirrors](#court-of-mirrors)
-
----
-
-## Disciplines (Universal)
-
-*All five disciplines are available to every character regardless of court.*
+- [Imbas](#imbas)
+- [Geis](#geis)
+- [Veil](#veil)
+- [Awen](#awen)
+- [The Green](#the-green)
+- [Fleetness](#fleetness)
+- [Ironhide](#ironhide)
+- [Sinew](#sinew)
+- [Wyldform](#wyldform)
 
 ---
 
@@ -131,30 +113,68 @@ Characters have two kinds of powers: **disciplines** (universal — available to
 
 ---
 
-## Court of Storms
+### Fleetness
 
-*(Aurora's court — members only, or cross-court unlock)*
+*The fae's preternatural quickness — not the speed of legs but the speed of the moment, of choosing and acting before the other side has finished choosing. The discipline of those the eye cannot catch.*
 
-- **Lure of the Revel** *(Tier 1 — 1 pt/use)* — Draw one character into a private conversation; they cannot disengage for 3 minutes without spending a Glamour point.
-- **Stormwalk** *(Tier 2 — 2 pts/use)* — Pass any one social barrier (a closed circle, a forbidden room, a scene you weren't part of) without challenge.
-- **Song of Aurora** *(Tier 3 — 3 pts/use)* — While you sing, dance, or perform, any character within earshot must answer one personal question truthfully when you stop.
+**Level 1** *(VtM Celerity 1 + 2)*
+- **Passive:** Win all Grace tie-breakers. You cannot be physically restrained against your will.
+- **Active (1 Wyrd):** Win one Grace challenge without RPS.
 
----
+**Level 2** *(VtM Celerity 3 + 4)*
+- **Active (1 Wyrd):** Disengage instantly from any scene and reappear anywhere within line of sight. No challenge required; cannot be prevented.
+- **Active (1 Wyrd):** Pre-empt one challenge directed at you — resolve your response first before the attacker's action lands.
 
-## Court of Beasts
-
-*(Woodwose's court — members only, or cross-court unlock)*
-
-- **Earth-Sense** *(Tier 1 — 1 pt/use)* — Detect when anyone in your line of sight is lying about a location, a movement, or a meeting.
-- **Old Grudge** *(Tier 2 — 2 pts/use)* — Publicly name a wrong done to your clan. The accused must respond honestly or spend a Presence point to deflect.
-- **Beast Form** *(Tier 3 — 3 pts/use)* — When you would lose any physical challenge, turn it into a tie instead.
+**Level 3** *(VtM Celerity 5)*
+- **Active (2 Wyrd):** For the rest of the scene, you win all RPS ties involving Grace, Might, or Mettle automatically, regardless of stat scores.
 
 ---
 
-## Court of Mirrors
+### Ironhide
 
-*(Mab's court — members only, or cross-court unlock)*
+*The fae's ancient endurance — the skin that does not break, the will that does not bend, the body that stands after everything else has fallen. The discipline of old blood and older wounds.*
 
-- **Maskwear** *(Tier 1 — 1 pt/use)* — Briefly impersonate another character's voice or manner. Convince one character of one small lie without a challenge.
-- **Boggart Bargain** *(Tier 2 — 2 pts/use)* — Offer a secret-for-secret trade. If accepted, both parties must trade truthfully.
-- **Hall of Mirrors** *(Tier 3 — 3 pts/use)* — When you are the target of a challenge or ability, redirect it to another character within 3 paces instead.
+**Level 1** *(VtM Fortitude 1 + 2)*
+- **Passive:** Win all Mettle tie-breakers. You cannot be intimidated through raw display of force.
+- **Active (1 Wyrd):** Turn one loss in a Physical challenge into a tie.
+
+**Level 2** *(VtM Fortitude 3 + 4)*
+- **Active (1 Wyrd):** Shrug off one ability that would compel, transform, or incapacitate you. The ability fails entirely. Declare immediately when the ability is announced.
+- **Active (1 Wyrd):** Continue acting normally after suffering an effect that would otherwise end your participation in the current scene.
+
+**Level 3** *(VtM Fortitude 5)*
+- **Active (2 Wyrd):** For the rest of the scene, no ability whose activation cost is below 2 Wyrd can affect you at all. Attackers wishing to target you must spend 2 Wyrd before attempting any challenge.
+
+---
+
+### Sinew
+
+*The fae's monstrous strength — the kind that is not muscle but myth, not effort but inevitability. Named for what the giant leaves behind when it stops holding back. The discipline of those who break things.*
+
+**Level 1** *(VtM Potence 1 + 2)*
+- **Passive:** Win all Might tie-breakers. You may lift, move, or carry anything a fae of your size could plausibly manage, plus one impossible thing.
+- **Active (1 Wyrd):** Win one Might challenge without RPS.
+
+**Level 2** *(VtM Potence 3 + 4)*
+- **Active (1 Wyrd):** Hurl a person or large object to a location of your choice within sight. Physical challenge — attacker uses Might, defender resists with Mettle.
+- **Active (1 Wyrd):** Shatter or wrench open a locked door, heavy gate, or physical restraint without challenge. The breaking is loud and irreversible.
+
+**Level 3** *(VtM Potence 5)*
+- **Active (2 Wyrd):** Destroy any one object — a weapon, a door, a ward's physical anchor — without challenge, regardless of its material. Or win one Might challenge against any number of opponents simultaneously.
+
+---
+
+### Wyldform
+
+*The fae's oldest gift — the form beneath the face, the beast the court forgot it was. Unlike The Green, which commands the wild, Wyldform turns inward: it changes you. The discipline of those still close enough to the primal to become it.*
+
+**Level 1** *(VtM Protean 1 + 2)*
+- **Passive:** Your eyes shift to those of a beast at will — slit-pupiled, luminous, inhuman. You may grow claws or fangs at will; these count as natural weapons and win Might tie-breakers in close physical challenges.
+- **Active (1 Wyrd):** Transform one body part — claws, hooves, scales, horns, gills — for the scene.
+
+**Level 2** *(VtM Protean 3 + 4)*
+- **Active (1 Wyrd):** Take the shape of one small beast — cat, hare, hawk, raven, or similar — for up to 10 minutes. You retain your mind and Wyrd pool; you cannot speak or use Social powers. You may end the form early at will.
+- **Active (1 Wyrd):** Sink your hands into earth, wood, or stone and conceal yourself there for up to 5 minutes. You cannot be found by any ordinary search.
+
+**Level 3** *(VtM Protean 5)*
+- **Active (2 Wyrd):** Take the shape of one large beast — wolf, stag, boar, serpent — or dissolve into mist. In beast or mist form, the change lasts for the scene or until you choose to end it. In beast form, you may initiate Physical challenges using your normal stats; in mist form, you cannot be touched or targeted by any challenge until you solidify.

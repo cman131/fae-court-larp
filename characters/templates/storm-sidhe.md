@@ -31,9 +31,10 @@ Reveling 4, Empathy 3, Court Protocol 3, Court Politics 2, Faerie Lore 2, Awaren
 *(5 Power points — suggested allocation)*
 
 - **Awen** level 1 — 1 pt *(project awe or dread)*
-- **Lure of the Revel** use — 1 pt
-- **Lure of the Revel** use — 1 pt
-- **Stormwalk** use — 2 pts
+- **Awen** level 2 — 1 pt *(entrance into devoted attachment; summon)*
+- **Awen** level 3 — 1 pt *(radiate majesty — none may oppose you while active)*
+- **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
+- **Imbas** level 2 — 1 pt *(touch impressions; surface thought-reading)*
 
 Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 

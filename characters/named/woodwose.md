@@ -41,9 +41,12 @@ Brawl 4, Beastcraft 3, Wildcraft 3, Bladesmanship 3, Intimidation 3, Faerie Lore
 **Suggested powers (8 pts):**
 - **The Green** level 1 — 1 pt *(passive animal sense + call animals)*
 - **The Green** level 2 — 1 pt *(ride animal senses; rouse primal beast in a character)*
-- **Beast Form** use — 3 pts
-- **Old Grudge** use — 2 pts
-- **Earth-Sense** use — 1 pt
+- **Sinew** level 1 — 1 pt *(win all Might tie-breakers; win one Might challenge without RPS)*
+- **Sinew** level 2 — 1 pt *(hurl a person; shatter a door or restraint)*
+- **Ironhide** level 1 — 1 pt *(win all Mettle tie-breakers; turn one Physical loss into a tie)*
+- **Ironhide** level 2 — 1 pt *(shrug off one ability that would compel or incapacitate you)*
+- **Wyldform** level 1 — 1 pt *(beast eyes; claws or fangs as natural weapons)*
+- **Wyldform** level 2 — 1 pt *(take the shape of a small beast for 10 minutes)*
 
 ---
 

@@ -49,11 +49,12 @@ Bladesmanship 4, Brawl 3, Intimidation 3, Faerie Lore 2, Fae Law 2, Awareness 2,
 
 **Sun's Edge** is pre-loaded with 1 use. It does not cost Power points.
 
-Spend your 5 Power points on disciplines and court ability uses. As a Knight, you choose one court pool to buy from freely — Barghest's background makes Court of Beasts the natural choice. Suggested allocation:
+Spend your 5 Power points on disciplines. Suggested allocation:
 - **Geis** level 1 — 1 pt *(command or post-hypnotic instruction; requires eye contact)*
 - **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
-- **Old Grudge** use — 2 pts *(name a wrong done to your clan; accused must respond or spend Presence)*
-- **Earth-Sense** use — 1 pt *(detect lies about locations and meetings)*
+- **Ironhide** level 1 — 1 pt *(win all Mettle tie-breakers; turn one Physical loss into a tie)*
+- **Ironhide** level 2 — 1 pt *(shrug off one ability that would compel or incapacitate you)*
+- **Sinew** level 1 — 1 pt *(win all Might tie-breakers; win one Might challenge without RPS)*
 
 ---
 

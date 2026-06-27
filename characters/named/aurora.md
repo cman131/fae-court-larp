@@ -39,9 +39,14 @@ Reveling 4, Empathy 3, Court Protocol 3, Court Politics 3, Faerie Lore 3, Awaren
 ## Powers
 
 **Suggested powers (8 pts):**
-- **Awen** level 2 — 2 pts *(awe/dread + entrancement/summon)*
-- **Song of Aurora** use — 3 pts
-- **Song of Aurora** use — 3 pts
+- **Awen** level 1 — 1 pt *(project awe or dread)*
+- **Awen** level 2 — 1 pt *(entrance into devoted attachment; summon)*
+- **Awen** level 3 — 1 pt *(radiate majesty — none may oppose you while active)*
+- **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
+- **Imbas** level 2 — 1 pt *(touch impressions; surface thought-reading)*
+- **Veil** level 1 — 1 pt *(stationary invisibility free; 1 Wyrd to move while hidden)*
+- **Veil** level 2 — 1 pt *(disguise as another; wipe a memory)*
+- **Geis** level 1 — 1 pt *(issue a command or post-hypnotic instruction)*
 
 ---
 

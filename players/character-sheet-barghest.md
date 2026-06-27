@@ -103,11 +103,9 @@
 
 **Geis** *(the binding)* &nbsp; — Level 1
 
-### Court abilities *(cross-court: Beast)*
+**Ironhide** *(iron skin)* &nbsp; — Level 2
 
-**Earth-Sense** *(Tier 1)* &nbsp; ○
-
-**Old Grudge** *(Tier 2)* &nbsp; ○
+**Sinew** *(giant's strength)* &nbsp; — Level 1
 
 ### Knight signature *(pre-loaded — cannot buy more uses)*
 

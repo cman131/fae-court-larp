@@ -37,12 +37,12 @@ Stealth 4, Court Protocol 3, Empathy 3, Faerie Lore 2, Court Politics 2, Awarene
 
 **Lake's Veil** is pre-loaded with 1 use. It does not cost Power points.
 
-Spend your 5 Power points on disciplines and court ability uses. As a Knight, you choose one court pool to buy from freely — Mélusine's wandering nature suits Court of Mirrors. Suggested allocation:
+Spend your 5 Power points on disciplines. Suggested allocation:
 - **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
 - **Veil** level 1 — 1 pt *(stationary invisibility free; 1 Wyrd to move while hidden)*
-- **Veil** level 2 — 1 pt *(disguise + memory wipe)*
-- **Maskwear** use — 1 pt *(impersonate a voice; convince one person of one small lie)*
-- **Maskwear** use — 1 pt
+- **Veil** level 2 — 1 pt *(disguise as another; wipe a memory)*
+- **Veil** level 3 — 1 pt *(extend Veil to cover up to five willing characters)*
+- **Fleetness** level 1 — 1 pt *(win all Grace tie-breakers; cannot be physically restrained)*
 
 ---
 

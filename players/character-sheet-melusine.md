@@ -101,11 +101,9 @@
 
 **Imbas** *(prophetic sight)* &nbsp; — Level 1
 
-**Veil** *(the hidden glamour)* &nbsp; — Level 2
+**Veil** *(the hidden glamour)* &nbsp; — Level 3
 
-### Court abilities *(cross-court: Mirrors)*
-
-**Maskwear** *(Tier 1)* &nbsp; ○ ○
+**Fleetness** *(fae quickness)* &nbsp; — Level 1
 
 ### Knight signature *(pre-loaded — cannot buy more uses)*
 

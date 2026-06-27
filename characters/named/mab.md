@@ -49,9 +49,14 @@ Stealth 4, Court Politics 3, Investigation 3, Heraldry 3, Empathy 3, Fae Law 2, 
 ## Powers
 
 **Suggested powers (8 pts):**
-- **Veil** level 2 — 2 pts *(mobile invisibility + disguise/memory wipe)*
-- **Hall of Mirrors** use — 3 pts
-- **Hall of Mirrors** use — 3 pts
+- **Veil** level 1 — 1 pt *(stationary invisibility; 1 Wyrd to move while hidden)*
+- **Veil** level 2 — 1 pt *(disguise as another; wipe a memory)*
+- **Imbas** level 1 — 1 pt *(read emotional truth)*
+- **Imbas** level 2 — 1 pt *(touch impressions; surface thought-reading)*
+- **Geis** level 1 — 1 pt *(issue a command or post-hypnotic instruction)*
+- **Geis** level 2 — 1 pt *(erase or rewrite a memory)*
+- **Awen** level 1 — 1 pt *(project awe or dread)*
+- **Fleetness** level 1 — 1 pt *(win all Grace tie-breakers; cannot be physically restrained)*
 
 ---
 

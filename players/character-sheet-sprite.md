@@ -102,7 +102,7 @@ Fill in bubbles — each bubble costs 1 Skill point. Cross off during play when 
 
 **Power points to spend:** 3
 
-Discipline levels cost 1 Power point each (must buy in sequence). Court ability uses cost 1 / 2 / 3 pts for Tier 1 / 2 / 3 (max 3 uses per ability). Cross-court unlock: 2 pts.
+Discipline levels cost 1 Power point each (must buy in sequence).
 
 > Full power descriptions: [rules/abilities.md](../rules/abilities.md)
 
@@ -118,33 +118,13 @@ Discipline levels cost 1 Power point each (must buy in sequence). Court ability 
 
 **The Green** *(the wild bond)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
 
-### Court of Storms *(members and unlock-holders only)*
+**Fleetness** *(fae quickness)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
 
-**Lure of the Revel** *(Tier 1)* &nbsp; ○ ○ ○
+**Ironhide** *(iron skin)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
 
-**Stormwalk** *(Tier 2)* &nbsp; ○ ○ ○
+**Sinew** *(giant's strength)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
 
-**Song of Aurora** *(Tier 3)* &nbsp; ○ ○ ○
-
-### Court of Beasts *(members and unlock-holders only)*
-
-**Earth-Sense** *(Tier 1)* &nbsp; ○ ○ ○
-
-**Old Grudge** *(Tier 2)* &nbsp; ○ ○ ○
-
-**Beast Form** *(Tier 3)* &nbsp; ○ ○ ○
-
-### Court of Mirrors *(members and unlock-holders only)*
-
-**Maskwear** *(Tier 1)* &nbsp; ○ ○ ○
-
-**Boggart Bargain** *(Tier 2)* &nbsp; ○ ○ ○
-
-**Hall of Mirrors** *(Tier 3)* &nbsp; ○ ○ ○
-
-### Cross-court unlock *(optional)*
-
-**Cross-court unlock** *(2 pts)* &nbsp; □ — Ability: _________________________ from Court of _________________________
+**Wyldform** *(the beast within)* &nbsp; — Level: &nbsp; □ 1 &nbsp; □ 2 &nbsp; □ 3
 
 ---
 

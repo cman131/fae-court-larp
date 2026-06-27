@@ -31,9 +31,10 @@ Stealth 4, Investigation 3, Court Politics 3, Empathy 2, Faerie Lore 2, Heraldry
 *(5 Power points — suggested allocation)*
 
 - **Veil** level 1 — 1 pt *(stationary invisibility free; 1 Wyrd for mobile)*
-- **Boggart Bargain** use — 2 pts
-- **Maskwear** use — 1 pt
-- **Maskwear** use — 1 pt
+- **Veil** level 2 — 1 pt *(disguise as another; wipe a memory)*
+- **Imbas** level 1 — 1 pt *(read emotional truth)*
+- **Imbas** level 2 — 1 pt *(touch impressions; surface thought-reading)*
+- **Geis** level 1 — 1 pt *(issue a command or post-hypnotic instruction)*
 
 Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 

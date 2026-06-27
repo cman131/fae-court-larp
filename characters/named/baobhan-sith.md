@@ -46,12 +46,12 @@ Reveling 4, Empathy 3, Court Politics 3, Faerie Lore 2, Court Protocol 2, Awaren
 
 **Wind's Lament** is pre-loaded with 1 use. It does not cost Power points.
 
-Spend your 5 Power points on disciplines and court ability uses. As a Knight, you choose one court pool to buy from freely — Court of Storms suits Baobhan Sith's musical nature. Suggested allocation:
+Spend your 5 Power points on disciplines. Suggested allocation:
 - **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
 - **Imbas** level 2 — 1 pt *(touch impressions; surface thought-reading)*
 - **Awen** level 1 — 1 pt *(project awe or dread)*
-- **Lure of the Revel** use — 1 pt *(draw someone into private conversation for 3 minutes)*
-- **Lure of the Revel** use — 1 pt
+- **Awen** level 2 — 1 pt *(entrance into devoted attachment; summon)*
+- **Veil** level 1 — 1 pt *(stationary invisibility free; 1 Wyrd to move while hidden)*
 
 ---
 

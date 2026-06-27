@@ -26,7 +26,7 @@ Sidhe attribute and skill totals match MET VtM (By Night Studios) standard chara
 
 **Attribute points** — spent on the nine stats below (max 3 per stat).
 **Skill points** — spent on the fifteen skills in [skills.md](skills.md) (max 5 per skill). See that file for the structured distribution template.
-**Power points** — spent on discipline levels and court ability uses. See [abilities.md](abilities.md).
+**Power points** — spent on discipline levels. See [abilities.md](abilities.md).
 **Wyrd pool** — fixed, not purchased. Spend Wyrd to activate discipline powers. Refreshes fully at session start.
 
 Knights are built on the Sidhe chassis with their signature ability granted free on top of their normal budget. Oberon is built on the Sovereign chassis with a secret ability sheet revealed at the climax.

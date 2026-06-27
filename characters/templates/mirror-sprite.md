@@ -31,8 +31,8 @@ Stealth 4, Investigation 3, Empathy 2, Court Politics 2, Fae Law 1, Heraldry 1
 *(3 Power points — suggested allocation)*
 
 - **Veil** level 1 — 1 pt
-- **Maskwear** use — 1 pt
-- **Maskwear** use — 1 pt
+- **Geis** level 1 — 1 pt *(issue a command or post-hypnotic instruction)*
+- **Imbas** level 1 — 1 pt *(read emotional truth; cannot be surprised)*
 
 Full power descriptions: [rules/abilities.md](../../rules/abilities.md)
 
